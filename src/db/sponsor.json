@@ -1,0 +1,282 @@
+[
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": true,
+        "link": "http://www.vermeiren.com",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/vm.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": true,
+        "link": "http://www.theofficestar.com",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/officestar.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": true,
+        "link": "http://www.xjtlu.edu.cn/en/",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/xp.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "link": "https://www.juhe.cn",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/jhsj.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "link": "http://mailchimp.com/",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/MailChimp.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "link": "http://xiumi.us/",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/xiumi-logo.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "link": "http://www.eventdove.com/",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/huige.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": true,
+        "link": "http://www.skema-bs.cn/",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/skema.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/sy.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "link": "http://www.kotrip.com/",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/maokong.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/sipnpo.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "link": "http://www.suzart.cn/",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/jjm.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/zhix.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "link": "http://developers.dushu.hu/",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/gdg-suzhou.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": true,
+        "link": "http://www.sscac.com.cn/",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/szdjy.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "link": "http://www.lingxi360.com/",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/lx.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "link": "http://gongyi.la/",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/gongyi.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "link": "http://www.34580.com/",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/fmkt.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "link": "http://www.opark.com",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/cyzg.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "link": "http://ckb.opark.com",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/ckb.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "link": "http://www.yunshantea.com",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/yscq.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "link": "http://www.fdemaison.com/index.html",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/mssj.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "link": "http://www.benlai.com",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/blsh.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/amaiwei.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/df.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/zz.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/panda.png"
+    },
+    {
+        "id": "",
+        "name": "",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "link": "http://www.isuzhou.me",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/qdsz.png"
+    },
+    {
+        "id": "",
+        "name": "巾帼",
+        "level": 1,
+        "type": "",
+        "active": false,
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/jg.png"
+    },
+    {
+        "id": "",
+        "name": "罗技",
+        "level": 1,
+        "type": "",
+        "active": true,
+        "link": "http://www.logitech.com.cn/zh-cn",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/luoji.png"
+    },
+    {
+        "id": "",
+        "name": "renogy",
+        "level": 1,
+        "type": "",
+        "active": true,
+        "link": "http://www.renogy.cn",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/renogy.png"
+    },
+    {
+        "id": "",
+        "name": "line-zone",
+        "level": 1,
+        "type": "",
+        "active": true,
+        "link": "http://www.jslinezone.com",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/line-zone.png"
+    }
+]
