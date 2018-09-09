@@ -4,6 +4,9 @@
     <talks />
     <join />
     <team />
+    <what />
+    <partner />
+    <contact />
   </div>
 </template>
 
@@ -12,13 +15,19 @@ import Hero from './components/Hero.vue'
 import Talks from './components/Talks.vue'
 import Join from './components/Join.vue'
 import Team from './components/Team.vue'
+import What from './components/What.vue'
+import Partner from './components/Partner.vue'
+import Contact from './components/Contact.vue'
 
 export default {
   components: {
     Hero,
     Talks,
     Join,
-    Team
+    Team,
+    What,
+    Partner,
+    Contact
   }
 }
 </script>

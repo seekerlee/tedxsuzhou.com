@@ -4,6 +4,8 @@ import router from './router'
 import store from './store'
 
 require('./assets/css/main.scss')
+require('vue-material-design-icons/styles.css')
+require('animate.css')
 
 Vue.config.productionTip = false
 

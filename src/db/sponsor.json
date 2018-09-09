@@ -1,6 +1,6 @@
 [
     {
-        "id": "",
+        "id": 0,
         "name": "",
         "level": 1,
         "type": "",
@@ -9,7 +9,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/vm.png"
     },
     {
-        "id": "",
+        "id": 1,
         "name": "",
         "level": 1,
         "type": "",
@@ -18,7 +18,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/officestar.png"
     },
     {
-        "id": "",
+        "id": 2,
         "name": "",
         "level": 1,
         "type": "",
@@ -27,7 +27,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/xp.png"
     },
     {
-        "id": "",
+        "id": 3,
         "name": "",
         "level": 1,
         "type": "",
@@ -36,7 +36,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/jhsj.png"
     },
     {
-        "id": "",
+        "id": 4,
         "name": "",
         "level": 1,
         "type": "",
@@ -45,7 +45,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/MailChimp.png"
     },
     {
-        "id": "",
+        "id": 5,
         "name": "",
         "level": 1,
         "type": "",
@@ -54,7 +54,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/xiumi-logo.png"
     },
     {
-        "id": "",
+        "id": 6,
         "name": "",
         "level": 1,
         "type": "",
@@ -63,7 +63,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/huige.png"
     },
     {
-        "id": "",
+        "id": 7,
         "name": "",
         "level": 1,
         "type": "",
@@ -72,7 +72,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/skema.png"
     },
     {
-        "id": "",
+        "id": 8,
         "name": "",
         "level": 1,
         "type": "",
@@ -80,7 +80,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/sy.png"
     },
     {
-        "id": "",
+        "id": 9,
         "name": "",
         "level": 1,
         "type": "",
@@ -89,7 +89,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/maokong.png"
     },
     {
-        "id": "",
+        "id": 10,
         "name": "",
         "level": 1,
         "type": "",
@@ -97,7 +97,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/sipnpo.png"
     },
     {
-        "id": "",
+        "id": 11,
         "name": "",
         "level": 1,
         "type": "",
@@ -106,7 +106,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/jjm.png"
     },
     {
-        "id": "",
+        "id": 12,
         "name": "",
         "level": 1,
         "type": "",
@@ -114,7 +114,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/zhix.png"
     },
     {
-        "id": "",
+        "id": 13,
         "name": "",
         "level": 1,
         "type": "",
@@ -123,7 +123,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/gdg-suzhou.png"
     },
     {
-        "id": "",
+        "id": 14,
         "name": "",
         "level": 1,
         "type": "",
@@ -132,7 +132,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/szdjy.png"
     },
     {
-        "id": "",
+        "id": 15,
         "name": "",
         "level": 1,
         "type": "",
@@ -141,7 +141,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/lx.png"
     },
     {
-        "id": "",
+        "id": 16,
         "name": "",
         "level": 1,
         "type": "",
@@ -150,7 +150,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/gongyi.png"
     },
     {
-        "id": "",
+        "id": 17,
         "name": "",
         "level": 1,
         "type": "",
@@ -159,7 +159,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/fmkt.png"
     },
     {
-        "id": "",
+        "id": 18,
         "name": "",
         "level": 1,
         "type": "",
@@ -168,7 +168,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/cyzg.png"
     },
     {
-        "id": "",
+        "id": 19,
         "name": "",
         "level": 1,
         "type": "",
@@ -177,7 +177,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/ckb.png"
     },
     {
-        "id": "",
+        "id": 20,
         "name": "",
         "level": 1,
         "type": "",
@@ -186,7 +186,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/yscq.png"
     },
     {
-        "id": "",
+        "id": 21,
         "name": "",
         "level": 1,
         "type": "",
@@ -195,7 +195,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/mssj.png"
     },
     {
-        "id": "",
+        "id": 22,
         "name": "",
         "level": 1,
         "type": "",
@@ -204,7 +204,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/blsh.png"
     },
     {
-        "id": "",
+        "id": 23,
         "name": "",
         "level": 1,
         "type": "",
@@ -212,7 +212,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/amaiwei.png"
     },
     {
-        "id": "",
+        "id": 24,
         "name": "",
         "level": 1,
         "type": "",
@@ -220,7 +220,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/df.png"
     },
     {
-        "id": "",
+        "id": 25,
         "name": "",
         "level": 1,
         "type": "",
@@ -228,7 +228,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/zz.png"
     },
     {
-        "id": "",
+        "id": 26,
         "name": "",
         "level": 1,
         "type": "",
@@ -236,7 +236,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/panda.png"
     },
     {
-        "id": "",
+        "id": 27,
         "name": "",
         "level": 1,
         "type": "",
@@ -245,7 +245,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/qdsz.png"
     },
     {
-        "id": "",
+        "id": 28,
         "name": "巾帼",
         "level": 1,
         "type": "",
@@ -253,7 +253,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/jg.png"
     },
     {
-        "id": "",
+        "id": 29,
         "name": "罗技",
         "level": 1,
         "type": "",
@@ -262,7 +262,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/luoji.png"
     },
     {
-        "id": "",
+        "id": 30,
         "name": "renogy",
         "level": 1,
         "type": "",
@@ -271,7 +271,7 @@
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/renogy.png"
     },
     {
-        "id": "",
+        "id": 31,
         "name": "line-zone",
         "level": 1,
         "type": "",

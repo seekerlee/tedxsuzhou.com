@@ -37,7 +37,7 @@
   </div>
 
   <div class="hero-body">
-    <div class="container has-text-centered">
+    <div class="container has-text-centered landing slow">
         <h1 class="title tedxlogo">
             <span class=tedx>TED<sup>x</sup></span><span class=suzhou>Suzhou</span>
         </h1>
@@ -51,6 +51,19 @@
 </script>
 
 <style lang="scss" scoped>
+.landing {
+    animation: fadein 2s;
+}
+@keyframes fadein {
+    from {
+        transform: scale(1.1) translate(0, -3rem);
+        opacity:0;
+    }
+    to {
+        transform: scale(1) translate(0, -3rem);
+        opacity:1;
+    }
+}
 .hero {
     background: url(http://static.tedxsuzhou.com/images/tedxsuzhou_feel.jpg) 50% 0px / cover no-repeat fixed rgb(34, 34, 34);
 }

@@ -1,19 +1,34 @@
 <template>
-<div class="section clearfix object-non-visible" data-animation-effect=fadeIn>
-    <div class id=sponsor>
-        <h1 class="title text-center">合作伙伴</h1>
-        <hr class=colored>
-        <div class=text-center>
-            <transition-group name="list" tag="div">
-                <a v-for="sponsor in sponsors" :href="sponsor.link" target=_blank v-bind:key="sponsor"><img class="slogo h70" :src="sponsor.logoUrl"></a>
-            </transition-group>
+<section class="section">
+    <div>
+        <h1 class="">合作伙伴</h1>
+        <hr>
+        <div>
+            <a v-for="sponsor in sponsors" :href="sponsor.link" target=_blank v-bind:key="sponsor.id">
+                <img class="plogo" :src="sponsor.logoUrl">
+            </a>
         </div>
     </div>
-</div>
+</section>
 </template>
 
 <script>
+import sponsors from '../db/sponsor.json'
+const activePartner = sponsors.filter(p => p.active)
+export default {
+  data () {
+    return {
+      sponsors: activePartner
+    }
+  }
+}
 </script>
 
-<style>
+<style lang="scss" scoped>
+.plogo {
+    width: auto;
+    display: inline-block;
+    margin: 10px 10px;
+    height: 4rem;
+}
 </style>

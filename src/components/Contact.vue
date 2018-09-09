@@ -1,7 +1,6 @@
 <template>
-<footer id=footer class=footer>
-    <div class=container>
-        <h1 class="title text-center whitefont" id=contact>联系方式</h1>
+<footer class="footer has-text-centered">
+        <h1 class="title whitefont" id=contact>联系方式</h1>
         <hr class=colored>
         <div class=footer-content>
             <ul class=list-icons>
@@ -11,13 +10,12 @@
                 <li><i class="fa fa-microphone"></i><span>演讲人：</span>speaker@TEDxSuzhou.com</li>
                 <li><i class="fa fa-heart"></i><span>志愿者：</span>recruiting@TEDxSuzhou.com</li>
             </ul>
-            <div class=text-center style=color:#e62b1f><i class="fa fa-envelope"></i>&nbsp;&nbsp;<a target=_blank
-                                                                                                    style=color:#e62b1f
-                                                                                                    href=http://eepurl.com/IZTuv>邮件订阅</a>
+            <div>
+                <i class="fa fa-envelope"></i>&nbsp;&nbsp;<a target=_blank href=http://eepurl.com/IZTuv>邮件订阅</a>
             </div>
             <br>
             <img id=wechatQR src=http://static.tedxsuzhou.com/images/wechatQR.jpg>
-            <ul class="social-links text-center">
+            <ul class="social-links">
                 <li class=weibo title=微博>
                     <a target=_blank href=http://weibo.com/tedxsuzhou><i class="fa fa-weibo"></i></a>
                 </li>
@@ -44,17 +42,15 @@
                 </li>
             </ul>
         </div>
-    </div>
-    <div class=container>
-        <div class=row>
+        <div>
             <div class=col-md-12>
-                <p class=text-center>
-                    <a rel="nofollow" href="http://www.miitbeian.gov.cn">苏ICP备14048502号-2</a> ©2017 创学空间
-                    <br> This independent TEDx event is operated under license from TED | TEDxSuzhou 2017 | Made
-                    with <i class="fa fa-heart-o"></i> by GDG Suzhou</p>
+                <p>
+                    <a rel="nofollow" href="http://www.miitbeian.gov.cn">苏ICP备14048502号-2</a> ©2018 创学空间
+                    <br>
+                    This independent TEDx event is operated under license from TED | TEDxSuzhou 2018 | Made with <i class="fa fa-heart-o"></i> by ShihLee
+                </p>
             </div>
         </div>
-    </div>
 </footer>
 </template>
 
