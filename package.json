@@ -19,8 +19,8 @@
     "animate.css": "^3.7.0",
     "bulma": "^0.7.1",
     "vue": "^2.5.17",
+    "vue-awesome": "^3.1.2",
     "vue-carousel": "^0.13.1",
-    "vue-material-design-icons": "^2.1.1",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
   },

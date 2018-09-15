@@ -47,9 +47,6 @@
 </section>
 </template>
 
-<script>
-</script>
-
 <style lang="scss" scoped>
 .landing {
     animation: fadein 2s;
