@@ -1,5 +1,4 @@
 <template>
-
     <section class="section">
         <div class=container>
             <h1 class="title" id=talkv>参与</h1>
@@ -70,12 +69,6 @@
 </template>
 
 <script>
-import 'vue-awesome/icons/microphone'
-import 'vue-awesome/icons/users'
-import 'vue-awesome/icons/heart'
-import 'vue-awesome/icons/exchange-alt'
-export default {
-}
 </script>
 <style lang="scss" scoped>
 </style>

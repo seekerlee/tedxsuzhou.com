@@ -1,7 +1,7 @@
 <template>
 <footer class="footer has-text-centered">
     <h1 class="title">联系方式</h1>
-    <div class=footer-content>
+    <div class="footer-content">
         <ul>
             <li><v-icon name="info-circle"/><span>一般：</span>pr@TEDxSuzhou.com</li>
             <li><v-icon name="exchange-alt"/><span>合作：</span>partnership@TEDxSuzhou.com</li>
@@ -12,7 +12,6 @@
         <div>
             <v-icon name="envelope"/><a target=_blank href=http://eepurl.com/IZTuv>邮件订阅</a>
         </div>
-        <br>
         <img id=wechatQR src=http://static.tedxsuzhou.com/images/wechatQR.jpg>
         <ul class="social-links">
             <li class=weibo title=微博>
@@ -58,37 +57,14 @@
         </ul>
     </div>
     <div>
-        <div>
-            <p>
-                <a rel="nofollow" href="http://www.miitbeian.gov.cn">苏ICP备14048502号-2</a> ©2018 创学空间
-                <br>
-                This independent TEDx event is operated under license from TED | TEDxSuzhou 2018 | Made with <v-icon name="heart"/> by ShihLee
-            </p>
-        </div>
+        <p>
+            <a rel="nofollow" href="http://www.miitbeian.gov.cn">苏ICP备14048502号-2</a> ©2018 创学空间
+            <br>
+            This independent TEDx event is operated under license from TED | TEDxSuzhou 2018 | Made with <v-icon name="heart"/> by ShihLee
+        </p>
     </div>
 </footer>
 </template>
 
-<style>
-</style>
-
 <script>
-import 'vue-awesome/icons/brands/weibo'
-import 'vue-awesome/icons/brands/facebook-f'
-import 'vue-awesome/icons/brands/twitter'
-import 'vue-awesome/icons/brands/instagram'
-import 'vue-awesome/icons/brands/linkedin'
-import 'vue-awesome/icons/brands/youtube'
-import 'vue-awesome/icons/brands/flickr'
-import 'vue-awesome/icons/play-circle'
-
-import 'vue-awesome/icons/microphone'
-import 'vue-awesome/icons/users'
-import 'vue-awesome/icons/heart'
-import 'vue-awesome/icons/info-circle'
-import 'vue-awesome/icons/newspaper'
-import 'vue-awesome/icons/exchange-alt'
-import 'vue-awesome/icons/envelope'
-export default {
-}
 </script>
