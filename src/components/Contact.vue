@@ -3,9 +3,13 @@
     <h1 class="title whitefont">联系我们</h1>
     <hr>
     <div class="footer-content">
-        <div>pr@TEDxSuzhou.com</div>
         <img id="wechatQR" src="/image/wechat-qr.png">
         <ul class="social-links">
+            <li class="email" title="pr@tedxsuzhou.com">
+                <a target=_blank href="mailto:pr@tedxsuzhou.com">
+                    <v-icon scale=2.5 name="envelope"/>
+                </a>
+            </li>
             <li class=weibo title=微博>
                 <a target=_blank href=http://weibo.com/tedxsuzhou>
                     <v-icon scale=2.5 name="brands/weibo"/>
@@ -48,7 +52,7 @@
             </li>
         </ul>
     </div>
-    <div>
+    <div class="site-info">
         <p>
             <a rel="nofollow" href="http://www.miitbeian.gov.cn">苏ICP备14048502号-2</a> ©2018 创学空间
             <br>
@@ -90,7 +94,6 @@ export default {
 .social-links {
     padding: 0;
     list-style: none;
-    margin: 1rem 0;
     li {
         margin: 0 .75rem;
         display: inline-block;
@@ -136,6 +139,12 @@ export default {
 }
 #wechatQR {
     opacity: 0.8;
+}
+.site-info {
+    margin-top: 6rem;
+    a {
+        color: inherit
+    }
 }
 .chromefix {
     transform: translate3d(0,0,0); /* fix chrome 69 bug: https://github.com/pojome/elementor/issues/4692 */
