@@ -15,4 +15,36 @@ $navbar-item-hover-background-color: unset;
 $navbar-item-color: white;
 $navbar-item-active-color: rgb(230, 43, 31);
 
+$title-size: 2.5rem;
+
+// custom
+$white-font-color: rgba(255, 255, 255, .8);
 @import '~bulma/bulma';
+
+body {
+    background-color: #f5f5f5;
+}
+
+h1,h2,h3 {
+    text-align: center;
+}
+
+hr {
+    height: 4px;
+    margin: 15px auto;
+    max-width: 100px;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-color: #e62b1e;
+    background-color: unset;
+}
+.whitefont {
+    color: $white-font-color;
+}
+
+@media(min-width:768px) {
+    hr {
+        margin: 20px auto;
+        max-width: 200px;
+    }
+}

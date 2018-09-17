@@ -1,7 +1,7 @@
 <template>
 <section class="section">
     <div class="container" id="what">
-        <h1 class="">什么是TED及TEDxSuzhou？</h1>
+        <h1 class="title">什么是TED及TEDxSuzhou？</h1>
         <hr class="">
         <div class="columns">
             <div class="column">

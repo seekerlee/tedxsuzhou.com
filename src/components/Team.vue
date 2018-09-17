@@ -1,8 +1,9 @@
 <template>
     <section class="section">
         <div class="container">
-            <h1 class="title" id=talkv>团队</h1>
-            <p class="">我们来自各行各业五湖四海相聚苏州，带着传播创想的信条，为您呈现思维的盛宴！</p>
+            <h1 class="title">团队</h1>
+            <hr>
+            <p>我们来自各行各业五湖四海相聚苏州，带着传播创想的信条，为您呈现思维的盛宴！</p>
             <carousel :autoplay="true" :autoplayTimeout="5000" :autoplayHoverPause="true" :perPage="5" :loop="true">
                 <slide v-for="member in team" :key="member.id">
                     <div class="person">
@@ -37,5 +38,8 @@ export default {
 <style lang="scss" scoped>
 .person {
     padding: 1em;
+}
+.section {
+    transform: translate3d(0);
 }
 </style>

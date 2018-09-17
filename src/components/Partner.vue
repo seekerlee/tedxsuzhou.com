@@ -1,7 +1,7 @@
 <template>
-<section class="section">
-    <div>
-        <h1 class="">合作伙伴</h1>
+<section class="section has-text-centered">
+    <div class="container">
+        <h1 class="title">合作伙伴</h1>
         <hr>
         <div>
             <a v-for="sponsor in sponsors" :href="sponsor.link" target=_blank v-bind:key="sponsor.id">

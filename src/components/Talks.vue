@@ -1,7 +1,8 @@
 <template>
     <section class="section">
         <div class=container>
-            <h1 class="title" id=talkv>演讲视频</h1>
+            <h1 class="title">演讲视频</h1>
+            <hr>
             <p class="">汇集各行精英，感受无限创想，激荡头脑风暴，畅享视听盛宴</p>
             <div>
                 <div id="event-select" class="filters">

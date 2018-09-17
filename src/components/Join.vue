@@ -1,7 +1,8 @@
 <template>
     <section class="section">
         <div class=container>
-            <h1 class="title" id=talkv>参与</h1>
+            <h1 class="title">参与</h1>
+            <hr>
             <div class="columns">
                 <div class="column">
                     <div class="card">
@@ -67,8 +68,3 @@
         </div>
     </section>
 </template>
-
-<script>
-</script>
-<style lang="scss" scoped>
-</style>
