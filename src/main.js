@@ -21,6 +21,8 @@ import 'vue-awesome/icons/info-circle'
 import 'vue-awesome/icons/newspaper'
 import 'vue-awesome/icons/exchange-alt'
 import 'vue-awesome/icons/envelope'
+import 'vue-awesome/icons/lightbulb'
+import 'vue-awesome/icons/flask'
 
 require('./assets/css/main.scss')
 require('animate.css')
