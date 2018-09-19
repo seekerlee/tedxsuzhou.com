@@ -85,13 +85,25 @@
 .hero-body .container {
     transform: translate(0, -3rem);
 }
+
 .title {
-    font-size: 7rem;
-    margin-bottom: .3rem !important;
+    font-size: 3.5rem;
+    margin-bottom: .15rem !important;
 }
+
 .subtitle {
     color: #ffffff;
-    font-size: 3.5rem;
+    font-size: 1.6rem;
+    margin-top: 0 !important;
+}
+@media (min-width: 768px) {
+    .title {
+        font-size: 7rem;
+        margin-bottom: .3rem !important;
+    }
+    .subtitle {
+        font-size: 3.5rem;
+    }
 }
 .tedxlogo .tedx {
     color: #e62b1e;
