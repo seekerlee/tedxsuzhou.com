@@ -26,7 +26,6 @@ import 'vue-awesome/icons/flask'
 
 require('nprogress/nprogress.css')
 require('./assets/css/main.scss')
-require('animate.css')
 
 Vue.config.productionTip = false
 
