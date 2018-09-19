@@ -7,13 +7,13 @@
           <a class="navbar-item">
             <img src="http://static.tedxsuzhou.com/images/logo2.png" alt="Logo">
           </a>
-          <span class="navbar-burger burger" data-target="navbarMenuHeroA">
+          <span class="navbar-burger burger" v-bind:class="{ 'is-active': showMenu }" @click.stop.prevent="toggleMenu()">
             <span></span>
             <span></span>
             <span></span>
           </span>
         </div>
-        <div id="navbarMenuHeroA" class="navbar-menu">
+        <div class="navbar-menu" v-bind:class="{ 'is-active': showMenu }">
           <div class="navbar-end">
             <a class="navbar-item is-active" href=#talkv>
               首页
@@ -35,7 +35,6 @@
       </div>
     </nav>
   </div>
-
   <div class="hero-body">
     <div class="container has-text-centered landing slow">
         <h1 class="title tedxlogo">
@@ -60,6 +59,9 @@
         transform: scale(1) translate(0, -3rem);
         opacity:1;
     }
+}
+.navbar-menu {
+    background-color: transparent;
 }
 .hero {
     background: url(http://static.tedxsuzhou.com/images/tedxsuzhou_feel.jpg) 50% 0px / cover no-repeat fixed rgb(34, 34, 34);
@@ -120,3 +122,19 @@
     font-weight: normal;
 }
 </style>
+
+<script>
+export default {
+  data () {
+    return {
+      showMenu: false
+    }
+  },
+  methods: {
+    toggleMenu () {
+      this.showMenu = !this.showMenu
+    }
+  }
+
+}
+</script>
