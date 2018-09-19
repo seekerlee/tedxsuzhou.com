@@ -3,7 +3,7 @@
         <div class="container">
             <h1 class="title">团队</h1>
             <hr>
-            <carousel :autoplay="true" :autoplayTimeout="5000" :autoplayHoverPause="true" :perPage="5" :loop="true">
+            <carousel :autoplay="true" :autoplayTimeout="5000" :autoplayHoverPause="true" :perPageCustom="[[0, 1], [768, 3], [1024, 5]]" :loop="true">
                 <slide v-for="member in team" :key="member.id">
                     <div class="person">
                         <figure class="image is-1by1">
