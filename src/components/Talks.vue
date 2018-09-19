@@ -12,6 +12,7 @@
                 <div class="columns is-multiline">
                     <div
                     v-for="talk in displayingTalks"
+                    v-if="talk.video"
                     v-bind:key="talk.performerName"
                     class="talk column is-one-quarter"
                     v-bind:class="{ 'talk-leave': talkLeaving, 'talk-enter': !talkLeaving }"
