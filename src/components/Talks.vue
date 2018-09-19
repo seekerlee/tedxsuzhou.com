@@ -4,13 +4,18 @@
             <h1 class="title">演讲视频</h1>
             <hr>
             <ul class="nav-pills">
-                <li v-bind:class="{ active: event.isActive }" v-for="event in events" v-bind:key="event.id" v-on:click.stop.prevent="selectEvent(event)">
+                <li v-bind:class="{ active: selectedEvent === event.eventId }" v-for="event in events" v-bind:key="event.id" v-on:click.stop.prevent="selectEvent(event)">
                     <a href="#">{{event.displayName}}</a>
                 </li>
             </ul>
             <div>
                 <div class="columns is-multiline">
-                    <div v-for="talk in displayingTalks" v-bind:key="talk.performerName" class="column is-one-quarter talk">
+                    <div
+                    v-for="talk in displayingTalks"
+                    v-bind:key="talk.performerName"
+                    class="column is-one-quarter talk"
+                    v-bind:class="{ 'talk-leave': talkLeaving, 'talk-enter': !talkLeaving }"
+                    >
                         <div class="card">
                             <div class="card-content">
                                 <figure class="image is-3by2">
@@ -38,7 +43,8 @@ export default {
   data () {
     return {
       events,
-      selectedEvent: events[0].eventId
+      selectedEvent: events[0].eventId,
+      talkLeaving: false
     }
   },
   computed: {
@@ -50,13 +56,42 @@ export default {
   },
   methods: {
     selectEvent: function (event) {
-      this.selectedEvent = event.eventId
+      if (this.selectedEvent !== event.eventId) {
+        // for animation, first show leave animation
+        this.talkLeaving = true
+        setTimeout(() => {
+          this.talkLeaving = false
+          this.selectedEvent = event.eventId
+        }, 280)
+      }
     }
   }
 }
 </script>
 
 <style lang="scss" scoped>
+@keyframes enter {
+    from {
+        transform: perspective(100rem) rotateY(90deg);
+    }
+    to {
+        transform: perspective(100rem) rotateY(0);
+    }
+}
+@keyframes leave {
+    from {
+        transform: perspective(100rem) rotateY(0);
+    }
+    to {
+        transform: perspective(100rem) rotateY(-90deg);
+    }
+}
+.talk-enter {
+    animation: enter .3s linear;
+}
+.talk-leave {
+    animation: leave .3s linear;
+}
 .talk .card-content {
     padding: 0;
     position: relative;

@@ -16,8 +16,8 @@ $navbar-item-color: white;
 $navbar-item-active-color: rgb(230, 43, 31);
 
 $title-size: 2.5rem;
-$title-weight: lighter;
-$content-heading-weight: lighter;
+$title-weight: 300;
+$content-heading-weight: 300;
 
 // custom
 $white-font-color: rgba(255, 255, 255, .8);
@@ -29,7 +29,7 @@ body {
 
 h1,h2,h3 {
     text-align: center;
-    font-weight: lighter;
+    font-weight: 300;
 }
 
 hr {
