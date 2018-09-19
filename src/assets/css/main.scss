@@ -58,3 +58,10 @@ hr {
 .whitefont {
     color: $white-font-color;
 }
+
+::selection {
+    background: #e62b1e98; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+    background: #e62b1e98; /* Gecko Browsers */
+}
