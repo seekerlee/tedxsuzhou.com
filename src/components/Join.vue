@@ -14,7 +14,7 @@
                         <div class="card-content">
                             <div class="content">
                                 <h3>演讲人</h3>
-                                <p>演讲是TED的灵魂，演讲者就是TED的灵魂工程师。如果你把握着时代脉搏；致力于人文关怀；经历着我们所不知道的故事……我们提供舞台，只要你愿意分享，欢迎大家打开链接：<a href="http://f.lingxi360.com/f/nnk8xp">踊跃自荐和推荐</a>！</p>
+                                <p>演讲是TED的灵魂，演讲者就是TED的灵魂工程师。如果你把握着时代脉搏；致力于人文关怀；经历着我们所不知道的故事……我们提供舞台，只要你愿意分享，欢迎大家打开链接：<a href="http://f.lingxi360.com/f/nnk8xp" target="_blank">踊跃自荐和推荐</a>！</p>
                             </div>
                         </div>
                     </div>
@@ -29,7 +29,7 @@
                         <div class="card-content">
                             <div class="content">
                                 <h3>观众</h3>
-                                <p>想要感受最前沿的科技动态？想要分享最深刻教育理念？亦或是加入最新潮的时代发展？只有你想不到的 idea！一场 TEDxSuzhou 活动，绝对让你脑洞大开、受益匪浅。</p>
+                                <p>想要感受最前沿的科技动态？想要分享最深刻教育理念？亦或是加入最新潮的时代发展？只有你想不到的 idea！一场 TEDxSuzhou 活动，绝对让你脑洞大开、受益匪浅。<a href="#contact">关注公众号</a>，获取动态。</p>
                             </div>
                         </div>
                     </div>

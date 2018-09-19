@@ -4,7 +4,7 @@
         <h1 class="title">合作伙伴</h1>
         <hr>
         <div>
-            <a v-for="sponsor in sponsors" :href="sponsor.link" target=_blank v-bind:key="sponsor.id">
+            <a v-for="sponsor in sponsors" :href="sponsor.link" target="_blank" v-bind:key="sponsor.id">
                 <img class="plogo" :src="sponsor.logoUrl">
             </a>
         </div>
