@@ -4,7 +4,7 @@
             <h1 class="title">演讲视频</h1>
             <hr>
             <ul class="nav-pills">
-                <li v-bind:class="{ active: selectedEvent === event.eventId }" v-for="event in events" v-bind:key="event.id" v-on:click.stop.prevent="selectEvent(event)">
+                <li v-bind:class="{ active: pendingSelectedEvent === event.eventId }" v-for="event in events" v-bind:key="event.id" v-on:click.stop.prevent="selectEvent(event)">
                     <a href="#">{{event.displayName}}</a>
                 </li>
             </ul>
@@ -54,6 +54,7 @@ export default {
     return {
       events,
       selectedEvent: events[0].eventId,
+      pendingSelectedEvent: events[0].eventId,
       talkLeaving: false,
       modal: {
         isActive: false,
@@ -73,6 +74,7 @@ export default {
       if (this.selectedEvent !== event.eventId) {
         // for animation, first show leave animation
         this.talkLeaving = true
+        this.pendingSelectedEvent = event.eventId
         setTimeout(() => {
           this.talkLeaving = false
           this.selectedEvent = event.eventId
