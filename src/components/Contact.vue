@@ -141,7 +141,7 @@ export default {
     opacity: 0.8;
 }
 .site-info {
-    margin-top: 6rem;
+    margin-top: 2rem;
     a {
         color: inherit
     }

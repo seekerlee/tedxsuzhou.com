@@ -24,6 +24,7 @@ import 'vue-awesome/icons/envelope'
 import 'vue-awesome/icons/lightbulb'
 import 'vue-awesome/icons/flask'
 
+require('nprogress/nprogress.css')
 require('./assets/css/main.scss')
 require('animate.css')
 

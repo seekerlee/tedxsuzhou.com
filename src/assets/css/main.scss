@@ -21,7 +21,21 @@ $content-heading-weight: 300;
 
 // custom
 $white-font-color: rgba(255, 255, 255, .8);
+$progress-bar-color: #e62b1e;
 @import '~bulma/bulma';
+
+#nprogress .bar {
+    background: $progress-bar-color;
+}
+
+#nprogress .peg {
+    box-shadow: 0 0 10px $progress-bar-color, 0 0 5px $progress-bar-color;
+}
+
+#nprogress .spinner-icon {
+    border-top-color: $progress-bar-color;
+    border-left-color: $progress-bar-color;
+}
 
 body {
     background-color: #f5f5f5;

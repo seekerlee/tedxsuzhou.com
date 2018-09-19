@@ -9,7 +9,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XNzEyNTQ1MTQ0",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNzEyNTQ1MTQ0"
         }
     },
     {
@@ -22,7 +23,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XNzA4Mzc1MjA4",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNzA4Mzc1MjA4"
         }
     },
     {
@@ -35,7 +37,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XNzEzMDUxMjA4",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNzEzMDUxMjA4"
         }
     },
     {
@@ -48,7 +51,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XNzEyNTgzNzYw",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNzEyNTgzNzYw"
         }
     },
     {
@@ -61,7 +65,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XNzA4Mzk4ODc2",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNzA4Mzk4ODc2"
         }
     },
     {
@@ -74,7 +79,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XNzA4NDA5NzM2",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNzA4NDA5NzM2"
         }
     },
     {
@@ -87,7 +93,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XNzIxMTQ5MDg0",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNzIxMTQ5MDg0"
         }
     },
     {
@@ -100,7 +107,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XNzA4NjEwOTE2",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNzA4NjEwOTE2"
         }
     },
     {
@@ -113,7 +121,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XNzA4NTM5ODg0",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNzA4NTM5ODg0"
         }
     },
     {
@@ -126,7 +135,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XNzA4NTMxNDQw",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNzA4NTMxNDQw"
         }
     },
     {
@@ -139,7 +149,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XNzEzMDQ2MDEy",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNzEzMDQ2MDEy"
         }
     },
     {
@@ -152,7 +163,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XNzA4MzYxMTg0",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNzA4MzYxMTg0"
         }
     },
     {
@@ -165,7 +177,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XNzEzMDU4NTA4",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNzEzMDU4NTA4"
         }
     },
     {
@@ -178,7 +191,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XOTQwMzQ1MTc2",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XOTQwMzQ1MTc2"
         }
     },
     {
@@ -191,7 +205,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XOTQwMzU2OTY0",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XOTQwMzU2OTY0"
         }
     },
     {
@@ -204,7 +219,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XOTQwMzc2NDcy",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XOTQwMzc2NDcy"
         }
     },
     {
@@ -217,7 +233,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XOTQwMzg4NTA4",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XOTQwMzg4NTA4"
         }
     },
     {
@@ -230,7 +247,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XOTQwMzkyODEy",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XOTQwMzkyODEy"
         }
     },
     {
@@ -243,7 +261,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XOTQwNDIxNzQw",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XOTQwNDIxNzQw"
         }
     },
     {
@@ -256,7 +275,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XOTQwNDMxNTM2",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XOTQwNDMxNTM2"
         }
     },
     {
@@ -269,7 +289,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XOTQwODU3MjE2",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XOTQwODU3MjE2"
         }
     },
     {
@@ -282,7 +303,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTI2MjU0MzUzNg",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTI2MjU0MzUzNg"
         }
     },
     {
@@ -295,7 +317,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTMwNjg2NTE2OA",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTMwNjg2NTE2OA"
         }
     },
     {
@@ -308,7 +331,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTI3Mzc5NjY1Mg",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTI3Mzc5NjY1Mg"
         }
     },
     {
@@ -321,20 +345,22 @@
         "video": {
             "type": "youku",
             "youkuId": "XOTU2ODQwMTQ4",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XOTU2ODQwMTQ4"
         }
     },
     {
         "id": "the id of the talk",
         "eventId": "2015-predicting-the-future",
         "name": "the name of the talk",
-        "sessionDesc": "四海艺家雕刻工作室 艺术总监， Carving Artist of Si Hai Yi Jia Carving Office.",
+        "sessionDesc": "四海艺家雕刻工作室艺术总监，Carving Artist of Si Hai Yi Jia Carving Office.",
         "performerName": " 徐佩根 PeigenXu",
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2015ptf/xpg.jpg",
         "video": {
             "type": "youku",
             "youkuId": "XMTI4ODkzODM5Ng",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTI4ODkzODM5Ng"
         }
     },
     {
@@ -347,6 +373,7 @@
         "video": {
             "type": "youku",
             "youkuId": "XOTU2ODMyMjE2",
+            "url": "https://player.youku.com/embed/XOTU2ODMyMjE2",
             "length": 120
         }
     },
@@ -360,7 +387,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XOTU1NjMxNTQw",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XOTU1NjMxNTQw"
         }
     },
     {
@@ -373,7 +401,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTI4ODkwNTQ2NA",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTI4ODkwNTQ2NA"
         }
     },
     {
@@ -386,7 +415,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTI4ODkzMzY4MA",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTI4ODkzMzY4MA"
         }
     },
     {
@@ -399,7 +429,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTI4MTUxMTU1Mg",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTI4MTUxMTU1Mg"
         }
     },
     {
@@ -412,7 +443,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTI4ODg3OTEwOA",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTI4ODg3OTEwOA"
         }
     },
     {
@@ -425,7 +457,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XOTUzMDM2ODM2",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XOTUzMDM2ODM2"
         }
     },
     {
@@ -438,7 +471,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XOTU3MjU1MDQ0",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XOTU3MjU1MDQ0"
         }
     },
     {
@@ -451,7 +485,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTI2MDM1NTE5Mg",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTI2MDM1NTE5Mg"
         }
     },
     {
@@ -464,7 +499,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTI4ODg2Njk2NA",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTI4ODg2Njk2NA"
         }
     },
     {
@@ -477,7 +513,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTI4MDg2MzQ2OA",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTI4MDg2MzQ2OA"
         }
     },
     {
@@ -490,7 +527,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTI4MDg0MzUzMg",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTI4MDg0MzUzMg"
         }
     },
     {
@@ -503,7 +541,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTMxMzE1MjQ2NA",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTMxMzE1MjQ2NA"
         }
     },
     {
@@ -516,7 +555,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTMxMzE0OTE2MA",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTMxMzE0OTE2MA"
         }
     },
     {
@@ -529,7 +569,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTMxMjE4ODE1Mg",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTMxMjE4ODE1Mg"
         }
     },
     {
@@ -542,7 +583,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTMxMjE5MTQ4MA",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTMxMjE5MTQ4MA"
         }
     },
     {
@@ -555,7 +597,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTI5NjIxMjY0NA",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTI5NjIxMjY0NA"
         }
     },
     {
@@ -568,7 +611,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTI5NjIxMDkxMg",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTI5NjIxMDkxMg"
         }
     },
     {
@@ -581,7 +625,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTI5NjIwMTU5Mg",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTI5NjIwMTU5Mg"
         }
     },
     {
@@ -594,7 +639,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTMwMzI4NzIyNA",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTMwMzI4NzIyNA"
         }
     },
     {
@@ -607,7 +653,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTMwNTEwMTI5Mg",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTMwNTEwMTI5Mg"
         }
     },
     {
@@ -620,7 +667,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTMwNTE4ODQyNA",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTMwNTE4ODQyNA"
         }
     },
     {
@@ -633,7 +681,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTMwMzI5MDQ0NA",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTMwMzI5MDQ0NA"
         }
     },
     {
@@ -646,7 +695,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTMwMDIwMjg2OA",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTMwMDIwMjg2OA"
         }
     },
     {
@@ -659,7 +709,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTMwMDIwNjA3Mg",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTMwMDIwNjA3Mg"
         }
     },
     {
@@ -672,7 +723,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTQ3ODU3NTk5Ng==",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTQ3ODU3NTk5Ng=="
         }
     },
     {
@@ -685,7 +737,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTQ2Njg5OTcwOA==",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTQ2Njg5OTcwOA=="
         }
     },
     {
@@ -698,7 +751,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTQ2NjA5NTcxMg==",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTQ2NjA5NTcxMg=="
         }
     },
     {
@@ -711,7 +765,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTQ4MDEwMDI2NA==",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTQ4MDEwMDI2NA=="
         }
     },
     {
@@ -724,7 +779,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTQ4MzYxNzY0OA==",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTQ4MzYxNzY0OA=="
         }
     },
     {
@@ -737,7 +793,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTQ3OTk1Mzc0MA==",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTQ3OTk1Mzc0MA=="
         }
     },
     {
@@ -750,7 +807,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTQ2NjQ4NDYxMg==",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTQ2NjQ4NDYxMg=="
         }
     },
     {
@@ -763,7 +821,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTQ2NjE1OTU0OA==",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTQ2NjE1OTU0OA=="
         }
     },
     {
@@ -776,7 +835,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTQ2NzA3NjAwNA==",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTQ2NzA3NjAwNA=="
         }
     },
     {
@@ -789,7 +849,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTQ2NjU2MzM0OA==",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTQ2NjU2MzM0OA=="
         }
     },
     {
@@ -802,7 +863,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTQ3MDE2MzM0NA==",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTQ3MDE2MzM0NA=="
         }
     },
     {
@@ -815,7 +877,8 @@
         "video": {
             "type": "youku",
             "youkuId": "XMTQ3ODAwNjA5Mg==",
-            "length": 120
+            "length": 120,
+            "url": "https://player.youku.com/embed/XMTQ3ODAwNjA5Mg=="
         }
     },
     {
@@ -827,7 +890,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016bt/zmh.png",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=d0305agadd1&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=d0305agadd1&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -840,7 +903,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016bt/hh.png",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=i0306fwurvs&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=i0306fwurvs&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -853,7 +916,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016bt/mh.png",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=d0306l0wq2q&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=d0306l0wq2q&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -866,7 +929,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016bt/cy.png",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=g03068qe5fo&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=g03068qe5fo&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -879,7 +942,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016bt/tc.png",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=d0306b8e0rw&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=d0306b8e0rw&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -892,7 +955,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016bt/wq.png",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=c0306glxfe4&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=c0306glxfe4&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -905,7 +968,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016bt/yjc.png",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=v0306ewwsd6&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=v0306ewwsd6&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -918,7 +981,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016bt/lst.png",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=s0305qez1lr&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=s0305qez1lr&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -931,7 +994,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016bt/zhl.png",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=y03062a3bwk&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=y03062a3bwk&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -944,7 +1007,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016bt/wzx.png",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=u0307aaxt1o&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=u0307aaxt1o&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -957,7 +1020,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016bt/dr.png",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=v0307nil2y9&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=v0307nil2y9&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -978,7 +1041,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016bt/sf.png",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=z03072ttpd3&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=z03072ttpd3&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -991,7 +1054,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016bt/fc.png",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=d03077gbde8&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=d03077gbde8&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1004,7 +1067,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016di/xp.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=j03538x7g70&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=j03538x7g70&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1017,7 +1080,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016di/cw.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=m0354i3iy15&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=m0354i3iy15&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1030,7 +1093,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016di/xh.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=x03533a7kdx&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=x03533a7kdx&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1043,7 +1106,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016di/hjw.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=w035524apdu&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=w035524apdu&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1056,7 +1119,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016di/wjy.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=p03569q79dm&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=p03569q79dm&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1069,7 +1132,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016di/whw.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=n0356nwwh7w&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=n0356nwwh7w&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1082,7 +1145,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016di/txj.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=j0353hxfi1e&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=j0353hxfi1e&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1095,7 +1158,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016di/hx.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=h0346bd9k3l&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=h0346bd9k3l&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1108,7 +1171,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016di/gyn.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=j0353s6p4i4&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=j0353s6p4i4&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1121,7 +1184,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016di/skn.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=a0356leye2a&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=a0356leye2a&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1134,7 +1197,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016di/yss.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=a0355wajrc2&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=a0355wajrc2&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1147,7 +1210,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2017tws/阮仪三现场.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=e0527w3zlfp&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=e0527w3zlfp&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1160,7 +1223,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2017tws/徐丽莉现场.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=y0509a7ggb2&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=y0509a7ggb2&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1173,7 +1236,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2017tws/三七现场.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=c05093m0lbp&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=c05093m0lbp&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1186,7 +1249,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2017tws/王晗现场.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=c0510a3xaly&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=c0510a3xaly&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1199,7 +1262,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2017tws/齐兴华现场.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=x0517wbzrzr&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=x0517wbzrzr&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1212,7 +1275,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2017tws/袁泽铭现场.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=c05173heg2t&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=c05173heg2t&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1225,7 +1288,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2017tws/魏宇现场.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=z0522ldw73t&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=z0522ldw73t&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1238,7 +1301,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2017tws/戴之菲现场.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=w0509z5o5rg&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=w0509z5o5rg&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1251,7 +1314,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2017tws/Christian Nolf现场.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=r0509wxnkez&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=r0509wxnkez&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1264,7 +1327,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2017tws/潘月琪现场.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=l0509vptnco&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=l0509vptnco&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1277,7 +1340,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2017tws/李一帆现场.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=e0509dcwfaa&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=e0509dcwfaa&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1290,7 +1353,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2017tws/周西现场.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=v0509xbpw6p&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=v0509xbpw6p&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1303,7 +1366,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016xpl/韩心怡大会.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=p0378wkihrm&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=p0378wkihrm&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1316,7 +1379,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016xpl/张自灵大会.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=e03802jns77&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=e03802jns77&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1329,7 +1392,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016xpl/Evrim大会.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=a03803y1blj&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=a03803y1blj&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1342,7 +1405,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016xpl/王朝焜大会.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=z038097h3e4&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=z038097h3e4&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1355,7 +1418,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016xpl/袁慧慧大会.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=d0385x9ryeo&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=d0385x9ryeo&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1368,7 +1431,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016xpl/Kouwenhoven大会.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=v03819e8ran&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=v03819e8ran&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1381,7 +1444,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016xpl/陈国坤大会.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=d0382dhaudi&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=d0382dhaudi&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1394,7 +1457,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016xpl/金禧大会.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=k0383dyed0x&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=k0383dyed0x&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1407,7 +1470,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016xpl/Waxin%20Pierre-Antoine%20and%20Édouard大会.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=p0385tb62m2&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=p0385tb62m2&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1420,7 +1483,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016xpl/张海燕大会.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=y03811gqy2v&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=y03811gqy2v&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1433,7 +1496,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016xpl/吴岱妮大会.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=p0383e54yuw&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=p0383e54yuw&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1446,7 +1509,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016xpl/梁海宁大会.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=a0382y3wnxz&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=a0382y3wnxz&tiny=0&auto=0",
             "length": 120
         }
     },
@@ -1459,7 +1522,7 @@
         "coverImg": "http://static.tedxsuzhou.com/images/talks/2016xpl/吕骋大会.jpg",
         "video": {
             "type": "qq",
-            "url": "https://v.qq.com/iframe/player.html?vid=h0386djlwqh&tiny=0&auto=0",
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=h0386djlwqh&tiny=0&auto=0",
             "length": 120
         }
     }

@@ -13,8 +13,9 @@
                     <div
                     v-for="talk in displayingTalks"
                     v-bind:key="talk.performerName"
-                    class="column is-one-quarter talk"
+                    class="talk column is-one-quarter"
                     v-bind:class="{ 'talk-leave': talkLeaving, 'talk-enter': !talkLeaving }"
+                    v-on:click.stop.prevent="openVodeo(talk)"
                     >
                         <div class="card">
                             <div class="card-content">
@@ -26,12 +27,20 @@
                                 </div>
                             </div>
                             <footer class="card-footer">
-                                <a href="#" class="card-footer-item">{{talk.performerName}}</a>
+                                <a :href="talk.video.url" class="talklink card-footer-item">{{talk.performerName}}</a>
                             </footer>
                         </div>
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="modal is-active video-modal" v-if="modal.isActive" >
+            <div class="modal-background"></div>
+            <div class="modal-content">
+                <iframe :src="modal.iframeUrl" ref="videoFrame" frameborder="0" allowfullscreen="">
+                </iframe>
+            </div>
+            <button class="modal-close is-large" v-on:click.stop.prevent="closeVodeo()" aria-label="close"></button>
         </div>
     </section>
 </template>
@@ -39,12 +48,17 @@
 <script>
 import events from '../db/event.json'
 import talks from '../db/talk.json'
+import * as NProgress from 'nprogress'
 export default {
   data () {
     return {
       events,
       selectedEvent: events[0].eventId,
-      talkLeaving: false
+      talkLeaving: false,
+      modal: {
+        isActive: false,
+        iframeUrl: null
+      }
     }
   },
   computed: {
@@ -55,7 +69,7 @@ export default {
     }
   },
   methods: {
-    selectEvent: function (event) {
+    selectEvent (event) {
       if (this.selectedEvent !== event.eventId) {
         // for animation, first show leave animation
         this.talkLeaving = true
@@ -64,7 +78,25 @@ export default {
           this.selectedEvent = event.eventId
         }, 280)
       }
+    },
+    openVodeo (talk) {
+      this.modal.isActive = true
+      this.modal.iframeUrl = talk.video.url
+
+      this.$nextTick(function () {
+        NProgress.start()
+        this.$refs.videoFrame.onload = () => {
+          NProgress.done()
+        }
+      })
+    },
+    closeVodeo () {
+      NProgress.done()
+      this.modal.isActive = false
     }
+  },
+  mounted: function () {
+    NProgress.configure({ showSpinner: false })
   }
 }
 </script>
@@ -92,33 +124,46 @@ export default {
 .talk-leave {
     animation: leave .3s linear;
 }
-.talk .card-content {
-    padding: 0;
-    position: relative;
-    overflow: hidden;
+.talk {
+    cursor: pointer;
+    .card-content {
+        padding: 0;
+        position: relative;
+        overflow: hidden;
+        .content{
+            opacity: 0;
+            height: 100%;
+            width: 100%;
+            position: absolute;
+            bottom: 0;
+            transform: scale(2);
+            transition: all linear 0.2s;
+            span {
+                color: white;
+                position: absolute;
+                padding: .75rem;
+                bottom: 0;
+                font-size: .8rem;
+                text-align: center;
+            }
+        }
+    }
+    .talklink {
+        color: inherit;
+    }
 }
-.talk .card-content .content{
-    opacity: 0;
-    height: 100%;
-    width: 100%;
-    position: absolute;
-    bottom: 0;
-    transform: scale(2);
-    transition: all linear 0.2s;
+
+.talk:hover {
+    .talklink {
+        color: #e62b1f;
+    }
+     .card-content .content{
+        opacity: 1;
+        background-color: rgba(0, 0, 0, 0.7);
+        transform: scale(1);
+    }
 }
-.talk:hover .card-content .content{
-    opacity: 1;
-    background-color: rgba(0, 0, 0, 0.7);
-    transform: scale(1);
-}
-.talk .card-content .content span {
-    color: white;
-    position: absolute;
-    padding: .75rem;
-    bottom: 0;
-    font-size: .8rem;
-    text-align: center;
-}
+
 .nav-pills {
     text-align: center;
     margin: 1.5rem auto;
@@ -144,5 +189,17 @@ export default {
     font-weight: 300;
     display: block;
 }
-
+.video-modal .modal-content{
+    position: relative;
+    width: 80%;
+    height: 80%;
+    iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
+}
 </style>
