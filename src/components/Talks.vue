@@ -3,17 +3,11 @@
         <div class=container>
             <h1 class="title">演讲视频</h1>
             <hr>
-            <div>
-                <div id="event-select" class="filters">
-                    <a
-                        class="button"
-                        v-for="event in events"
-                        v-bind:key="event.id"
-                        v-bind:class="{ active: event.isActive }"
-                        v-on:click.stop.prevent="selectEvent(event)"
-                    >{{event.displayName}}</a>
-                </div>
-            </div>
+            <ul class="nav-pills">
+                <li v-bind:class="{ active: event.isActive }" v-for="event in events" v-bind:key="event.id" v-on:click.stop.prevent="selectEvent(event)">
+                    <a href="#">{{event.displayName}}</a>
+                </li>
+            </ul>
             <div>
                 <div class="columns is-multiline">
                     <div v-for="talk in displayingTalks" v-bind:key="talk.performerName" class="column is-one-quarter talk">
@@ -90,4 +84,30 @@ export default {
     font-size: .8rem;
     text-align: center;
 }
+.nav-pills {
+    text-align: center;
+    margin: 1.5rem auto;
+}
+.nav-pills > li {
+    margin: .1rem .1rem;
+    display: inline-block;
+}
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus,
+.nav-pills > li > a:hover {
+    background-color: #e62b1f;
+    border-color: #e62b1f;
+    color: #ffffff;
+}
+.nav-pills > li > a {
+    border-radius: 0;
+    padding: .4rem 1rem;
+    border: 1px solid #cacaca;
+    color: #666666;
+    font-size: 1.2rem;
+    font-weight: 300;
+    display: block;
+}
+
 </style>

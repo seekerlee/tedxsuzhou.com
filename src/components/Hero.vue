@@ -39,7 +39,7 @@
   <div class="hero-body">
     <div class="container has-text-centered landing slow">
         <h1 class="title tedxlogo">
-            <span class=tedx>TED<sup>x</sup></span><span class=suzhou>Suzhou</span>
+            <span class=tedx>TED<sup class="thex">x</sup></span><span class=suzhou>Suzhou</span>
         </h1>
         <h2 class="subtitle">传播有价值的<span><a id="org-vid" title="主题视频" href="http://static.tedxsuzhou.com/orginfo/TEDxSuzhou2017.mp4">思想<i class="fa fa-play-circle-o"></i></a></span></h2>
     </div>
@@ -87,6 +87,7 @@
 }
 .title {
     font-size: 7rem;
+    margin-bottom: .3rem !important;
 }
 .subtitle {
     color: #ffffff;
@@ -94,11 +95,16 @@
 }
 .tedxlogo .tedx {
     color: #e62b1e;
-    font-weight: bolder;
-    letter-spacing:-.04em;
+    font-weight: 900;
+    letter-spacing: -0.4rem;
+}
+.tedxlogo .thex {
+    padding-left: 0.3rem;
+    font-weight: 600;
 }
 .tedxlogo .suzhou {
     color: white;
+    letter-spacing: -0.2rem;
     font-weight: normal;
 }
 </style>

@@ -39,7 +39,6 @@
 <style lang="scss" scoped>
 h3 {
     font-size: 1.5rem;
-    font-weight: bold;
 }
 .column {
     padding: 2rem;

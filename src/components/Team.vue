@@ -36,9 +36,6 @@ export default {
 
 <style lang="scss" scoped>
 .person {
-    padding: 1em;
-}
-.section {
-    transform: translate3d(0);
+    padding: 1rem;
 }
 </style>

@@ -16,6 +16,8 @@ $navbar-item-color: white;
 $navbar-item-active-color: rgb(230, 43, 31);
 
 $title-size: 2.5rem;
+$title-weight: lighter;
+$content-heading-weight: lighter;
 
 // custom
 $white-font-color: rgba(255, 255, 255, .8);
@@ -27,12 +29,13 @@ body {
 
 h1,h2,h3 {
     text-align: center;
+    font-weight: lighter;
 }
 
 hr {
-    height: 4px;
-    margin: 15px auto;
-    max-width: 100px;
+    height: .25rem;
+    margin: 1.5rem auto;
+    max-width: 12rem;
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
     border-color: #e62b1e;
@@ -40,11 +43,4 @@ hr {
 }
 .whitefont {
     color: $white-font-color;
-}
-
-@media(min-width:768px) {
-    hr {
-        margin: 20px auto;
-        max-width: 200px;
-    }
 }
