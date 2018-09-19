@@ -13,22 +13,22 @@
             <span></span>
           </span>
         </div>
-        <div class="navbar-menu" v-bind:class="{ 'is-active': showMenu }">
+        <div ref="menus" class="navbar-menu" v-bind:class="{ 'is-active': showMenu }">
           <div class="navbar-end">
-            <a class="navbar-item is-active" href=#talkv>
-              首页
-            </a>
-            <a class="navbar-item" href=#talkv>
+            <a class="navbar-item" href="#talks">
               演讲视频
             </a>
-            <a class="navbar-item" href=#participate>
+            <a class="navbar-item" href="#join">
               参与
             </a>
-            <a class="navbar-item" href=#team>
+            <a class="navbar-item" href="#team">
               团队
             </a>
-            <a class="navbar-item" href=#contact>
-              联系方式
+            <a class="navbar-item" href="#what">
+              关于
+            </a>
+            <a class="navbar-item" href="#contact">
+              联系我们
             </a>
           </div>
         </div>
@@ -40,7 +40,7 @@
         <h1 class="title tedxlogo">
             <span class=tedx>TED<sup class="thex">x</sup></span><span class=suzhou>Suzhou</span>
         </h1>
-        <h2 class="subtitle">传播有价值的<span><a id="org-vid" title="主题视频" href="http://static.tedxsuzhou.com/orginfo/TEDxSuzhou2017.mp4">思想<i class="fa fa-play-circle-o"></i></a></span></h2>
+        <h2 class="subtitle">传播有价值的<span>思想</span></h2>
     </div>
   </div>
 </section>
@@ -81,7 +81,7 @@
 .hero-head {
     color: #ffffff;
     background-color: rgba(255, 255, 255, 0.10);
-    padding: 10px 0;
+    // padding: 10px 0;
     transition: all 0.2s ease-in-out;
 }
 .hero-body .container {
@@ -134,6 +134,16 @@ export default {
     toggleMenu () {
       this.showMenu = !this.showMenu
     }
+  },
+  mounted () {
+    document.querySelectorAll('a[href^="#"]', this.$refs.menus).forEach(anchor => {
+      anchor.addEventListener('click', function (e) {
+        e.preventDefault()
+        document.querySelector(this.getAttribute('href')).scrollIntoView({
+          behavior: 'smooth'
+        })
+      })
+    })
   }
 
 }

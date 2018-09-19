@@ -1,5 +1,5 @@
 <template>
-<section class="section whitefont">
+<section id="what" class="section whitefont">
     <div class="container" id="what">
         <h1 class="title whitefont">什么是 TED 及 TEDxSuzhou?</h1>
         <hr class="">

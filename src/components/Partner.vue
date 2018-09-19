@@ -1,5 +1,5 @@
 <template>
-<section class="section has-text-centered">
+<section id="partner" class="section has-text-centered">
     <div class="container">
         <h1 class="title">合作伙伴</h1>
         <hr>

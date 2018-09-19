@@ -1,5 +1,5 @@
 <template>
-    <section class="section">
+    <section id="join" class="section">
         <div class=container>
             <h1 class="title">参与</h1>
             <hr>

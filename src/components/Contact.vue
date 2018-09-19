@@ -1,5 +1,5 @@
 <template>
-<footer v-bind:class="{ chromefix: isChrome }" class="footer has-text-centered whitefont">
+<footer id="contact" v-bind:class="{ chromefix: isChrome }" class="footer has-text-centered whitefont">
     <h1 class="title whitefont">联系我们</h1>
     <hr>
     <div class="footer-content">
