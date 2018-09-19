@@ -40,6 +40,15 @@
         "title": "TEDxSuzhou发起人"
     },
     {
+        "id": 11,
+        "name": "赵博",
+        "username": "alan.zhao",
+        "avatar_template": "/images/avatar/alan.zhao.png",
+        "bio": "世界那么大，人生那么短，令自己处于开心的状态，选择一个不累的生活态度吧!",
+        "email": "alan.zhao@tedxsuzhou.com",
+        "title": "品牌与市场部总监"
+    },
+    {
         "id": 31,
         "name": "毛惠Coco Mao",
         "username": "maohuicoco",
@@ -104,15 +113,6 @@
         "title": "制作助理"
     },
     {
-        "id": 11,
-        "name": "赵博",
-        "username": "alan.zhao",
-        "avatar_template": "/images/avatar/alan.zhao.png",
-        "bio": "世界那么大，人生那么短，令自己处于开心的状态，选择一个不累的生活态度吧!",
-        "email": "alan.zhao@tedxsuzhou.com",
-        "title": "品牌与市场部总监"
-    },
-    {
         "id": 43,
         "name": "刘鹏",
         "username": "FrancisLiu",
@@ -129,7 +129,7 @@
         "linkedin": "https://www.linkedin.com/profile/view?id=379548121",
         "weibo": "http://weibo.com/u/2921440265",
         "email": "ziheng.zhang@tedxsuzhou.com",
-        "title": "TEDxYouth@Suzhou联合策展人"
+        "title": "Youth 活动联合策展人"
     },
     {
         "id": 44,
@@ -208,7 +208,7 @@
         "linkedin": "https://cn.linkedin.com/in/芳宇-武-245396117",
         "weibo": "http://weibo.com/u/2407534093",
         "email": "fangyu.wu@tedxsuzhou.com",
-        "title": "TEDxYouth@Suzhou策展人"
+        "title": "Youth 活动策展人"
     },
     {
         "id": 27,

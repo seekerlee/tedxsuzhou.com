@@ -9,7 +9,7 @@
                         <figure class="image is-1by1">
                             <img class="is-rounded is-64x64" :src="'http://static.tedxsuzhou.com' + member.avatar_template" alt="">
                         </figure>
-                        <h4>{{member.name}}<template v-if="member.title">, {{member.title}}</template></h4>
+                        <h4 class="has-text-centered">{{member.name}}<template v-if="member.title">, {{member.title}}</template></h4>
                         <p>{{member.bio}}</p>
                     </div>
                 </slide>
@@ -37,5 +37,8 @@ export default {
 <style lang="scss" scoped>
 .person {
     padding: 1rem;
+    h4 {
+        font-size: 1.2rem;
+    }
 }
 </style>
