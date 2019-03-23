@@ -3,8 +3,8 @@
         <div class="container">
             <h1 class="title">团队</h1>
             <hr>
-            <carousel :autoplay="true" :autoplayTimeout="5000" :autoplayHoverPause="true" :perPageCustom="[[0, 1], [768, 3], [1024, 4], [1366, 5]]" :loop="true">
-                <slide v-for="member in team" :key="member.id">
+            <carousel :autoplay="true" :autoplayTimeout="5000" :autoplayHoverPause="true" :perPageCustom="[[0, 1], [768, 3], [1024, 4]]" :loop="true">
+                <slide v-for="member in activeMembers" :key="member.id">
                     <div class="person">
                         <figure class="image is-1by1">
                             <img class="is-rounded is-64x64" :src="'http://static.tedxsuzhou.com' + member.avatar_template" alt="">
@@ -25,6 +25,13 @@ export default {
   data () {
     return {
       team
+    }
+  },
+  computed: {
+    activeMembers: function () {
+      return this.team.filter(m => {
+        return m.isActive
+      })
     }
   },
   components: {
