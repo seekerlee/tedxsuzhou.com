@@ -69,7 +69,7 @@
       "avatar_template": "/images/avatar/Cloe.png",
       "bio": "社区顾问 爱吃、爱玩、爱公益，射手座。超强执行力、拥有大格局，在社区服务这五年期间，为社区的发展注入心血，是社区里名副其实的“拼命三娘”。2018年TEDxSuzhou 大会“Uran Future”策展人。",
       "email": "cloe.li@tedxsuzhou.com",
-      "title": "社区总监",
+      "title": "社区顾问",
       "isActive": true
     },
     {
@@ -390,5 +390,14 @@
       "email": "tsaicici@tedxsuzhou.com",
       "title": "社区主管",
       "isActive": false
+    },
+    {
+      "id": 1000,
+      "name": "李实",
+      "username": "simon",
+      "avatar_template": "/images/avatar/simon.jpg",
+      "bio": "一线工程师。曾服务于烽火通信，中华网软件，甲骨文，YoMail 等软件公司，现从事编程教育。我设计并编写了这个网站。",
+      "title": "社区顾问",
+      "isActive": true
     }
   ]
