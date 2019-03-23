@@ -4,7 +4,7 @@
         "name": "",
         "level": 1,
         "type": "",
-        "active": true,
+        "active": false,
         "link": "http://www.vermeiren.com",
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/vm.png"
     },
@@ -13,7 +13,7 @@
         "name": "",
         "level": 1,
         "type": "",
-        "active": true,
+        "active": false,
         "link": "http://www.theofficestar.com",
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/officestar.png"
     },
@@ -127,7 +127,7 @@
         "name": "",
         "level": 1,
         "type": "",
-        "active": true,
+        "active": false,
         "link": "http://www.sscac.com.cn/",
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/szdjy.png"
     },
@@ -266,7 +266,7 @@
         "name": "renogy",
         "level": 1,
         "type": "",
-        "active": true,
+        "active": false,
         "link": "http://www.renogy.cn",
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/renogy.png"
     },
@@ -275,8 +275,25 @@
         "name": "line-zone",
         "level": 1,
         "type": "",
-        "active": true,
+        "active": false,
         "link": "http://www.jslinezone.com",
         "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/line-zone.png"
+    },
+    {
+        "id": 32,
+        "name": "sbs",
+        "level": 1,
+        "type": "",
+        "active": true,
+        "link": "http://www.csztv.cn",
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/sbs.png"
+    },
+    {
+        "id": 33,
+        "name": "jingquan agency",
+        "level": 1,
+        "type": "",
+        "active": true,
+        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/jingquan-agency.png"
     }
 ]
