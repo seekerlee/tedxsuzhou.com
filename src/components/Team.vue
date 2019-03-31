@@ -31,6 +31,8 @@ export default {
     activeMembers: function () {
       return this.team.filter(m => {
         return m.isActive
+      }).sort((m1, m2) => {
+        return m2.order - m1.order
       })
     }
   },
