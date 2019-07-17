@@ -1525,5 +1525,188 @@
             "url": "https://v.qq.com/txp/iframe/player.html?vid=h0386djlwqh&tiny=0&auto=0",
             "length": 120
         }
+    },
+
+
+    
+    {
+        "id": "the id of the talk",
+        "eventId": "2018-youth-if",
+        "name": "假如生活错误引导了你",
+        "sessionDesc": "生活中由于存在思维限制，也存在着类似于魔术中的错误引导。对于如何逃出这样的生活陷阱，他通过给出了三个概念：逆向思考、错误记忆连接和先前知识影响，为观众提供了自己的答案。",
+        "performerName": "张丞润",
+        "coverImg": "http://static.tedxsuzhou.com/images/talks/2018youth/zcr.jpg",
+        "video": {
+            "type": "youku",
+            "youkuId": "XNDA1ODc0NDc0NA==",
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNDA1ODc0NDc0NA=="
+        }
+    },
+    {
+        "id": "the id of the talk",
+        "eventId": "2018-youth-if",
+        "name": "热爱，成就梦想",
+        "sessionDesc": "热爱可以给予人迎难而上的激情与勇气，鼓舞人去改变、去创造价值。",
+        "performerName": "吴志祥",
+        "coverImg": "http://static.tedxsuzhou.com/images/talks/2018youth/wzx.jpg",
+        "video": {
+            "type": "youku",
+            "youkuId": "XNDA1ODgxNTEyMA==",
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNDA1ODgxNTEyMA=="
+        }
+    },
+    {
+        "id": "the id of the talk",
+        "eventId": "2018-youth-if",
+        "name": "人人都应该学点音乐",
+        "sessionDesc": "音乐可以融入生活，制造美好回忆，帮助自身不断成长的令人惊叹的能力，鼓励人们通过学习音乐寻找最好的自己。",
+        "performerName": "王韵壹",
+        "coverImg": "http://static.tedxsuzhou.com/images/talks/2018youth/wjy.jpg",
+        "video": {
+            "type": "youku",
+            "youkuId": "XNDA1ODgxNDY2MA==",
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNDA1ODgxNDY2MA=="
+        }
+    },
+    {
+        "id": "the id of the talk",
+        "eventId": "2018-youth-if",
+        "name": "生活美学",
+        "sessionDesc": "有人的地方就有美学。美学充斥着生活的方方面面，是五味的综合体验，同时美学的创作者与欣赏者没有统一的标准界限，美的欣赏者同样也是美的创作者。",
+        "performerName": "王士维",
+        "coverImg": "http://static.tedxsuzhou.com/images/talks/2018youth/wsw.jpg",
+        "video": {
+            "type": "youku",
+            "youkuId": "XNDA1ODgwODQ1Mg==",
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNDA1ODgwODQ1Mg=="
+        }
+    },
+    {
+        "id": "the id of the talk",
+        "eventId": "2018-youth-if",
+        "name": "演讲中的观点是什么？",
+        "sessionDesc": "TED的演讲传播的想法不仅仅是鸡汤。鸡汤只是告诉了你努力就可以成功，而想法告诉你为什么努力就可以成功。TEDx的价值就在于它为聚集思想提供了舞台，帮助参与者获得认同感。",
+        "performerName": "王瀞漫",
+        "coverImg": "http://static.tedxsuzhou.com/images/talks/2018youth/wjm.jpg",
+        "video": {
+            "type": "youku",
+            "youkuId": "XNDA1ODc5NTI0OA==",
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNDA1ODc5NTI0OA=="
+        }
+    },
+    {
+        "id": "the id of the talk",
+        "eventId": "2018-youth-if",
+        "name": "勿以善小而不为",
+        "sessionDesc": "来自上海美国学校的高三学生刘瑞颜却已是公益社团的创始人，从日常生活中的必备网站——淘宝作为切入点，将数据分析与慈善相结合，证明再小的一笔捐款都有着非凡的意义，勿以善小而不为。",
+        "performerName": "刘瑞颜",
+        "coverImg": "http://static.tedxsuzhou.com/images/talks/2018youth/lry.jpg",
+        "video": {
+            "type": "youku",
+            "youkuId": "XNDA1ODc4MjA2OA==",
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNDA1ODc4MjA2OA=="
+        }
+    },
+    {
+        "id": "the id of the talk",
+        "eventId": "2018-youth-if",
+        "name": "用阅读提升生命的质量",
+        "sessionDesc": "人的幸福感来自于两个方面，物质享受和精神享受。在互联网时代，碎片化阅读和快餐文化的冲击下，时文写作和书籍的质量逐步下降，对当代人的价值思想产生了消极的影响。",
+        "performerName": "姬永胜",
+        "coverImg": "http://static.tedxsuzhou.com/images/talks/2018youth/jys.jpg",
+        "video": {
+            "type": "youku",
+            "youkuId": "XNDA1ODc3NDI3Ng==",
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNDA1ODc3NDI3Ng=="
+        }
+    },
+    {
+        "id": "the id of the talk",
+        "eventId": "2018-youth-if",
+        "name": "拥抱自己的不完美",
+        "sessionDesc": "每个人都像一块拼图，不能因为害怕自己的不完美而逃避“缺口“”，要勇于直面探索，从而获取自己人生的独特意义。",
+        "performerName": "董家容",
+        "coverImg": "http://static.tedxsuzhou.com/images/talks/2018youth/djr.jpg",
+        "video": {
+            "type": "youku",
+            "youkuId": "XNDA1ODc2MTI2OA==",
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNDA1ODc2MTI2OA=="
+        }
+    },
+    {
+        "id": "the id of the talk",
+        "eventId": "2018-youth-if",
+        "name": "看见未来",
+        "sessionDesc": "山区教师资源十分紧缺，有10.8万所小规模的乡村小学散落在各地，教育资源得不到保障，仅有最基本的课程勉强支撑。但其实一根网线，一台电脑就能为孩子连接起一个未来。",
+        "performerName": "陈嘉谊",
+        "coverImg": "http://static.tedxsuzhou.com/images/talks/2018youth/cjy.jpg",
+        "video": {
+            "type": "youku",
+            "youkuId": "XNDA1ODc0NDc4MA==",
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNDA1ODc0NDc4MA=="
+        }
+    },
+    {
+        "id": "the id of the talk",
+        "eventId": "2018-youth-if",
+        "name": "为什么要做一个安分的人？",
+        "sessionDesc": "小时候被家长称为“任性的孩子”，长大后则被认为是“不听劝的人”。但凭借着对铁皮玩具的喜爱在“接近40年生活在不被认可的环境里”坚持了下来，并不断探索着兴趣与事业的有机衔接。",
+        "performerName": "陈国泰",
+        "coverImg": "http://static.tedxsuzhou.com/images/talks/2018youth/cgt.jpg",
+        "video": {
+            "type": "youku",
+            "youkuId": "XNDA1ODc0NDc4NA==",
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNDA1ODc0NDc4NA=="
+        }
+    },
+    {
+        "id": "the id of the talk",
+        "eventId": "2018-youth-if",
+        "name": "基因是否是宿命",
+        "sessionDesc": "对人本身的状态与疾病是否有宿命般的联系展开讨论，得出了“你的基因不是你的宿命”这一论点，肯定了基因的作用是确定的，但需要有环境才能产生影响。",
+        "performerName": "叶盛",
+        "coverImg": "http://static.tedxsuzhou.com/images/talks/2018youth/ys.jpg",
+        "video": {
+            "type": "youku",
+            "youkuId": "XNDA1ODgyNjA2MA==",
+            "length": 120,
+            "url": "https://player.youku.com/embed/XNDA1ODgyNjA2MA=="
+        }
+    },
+    {
+        "id": "the id of the talk",
+        "eventId": "2018-youth-if",
+        "name": "蝴蝶趣事",
+        "sessionDesc": "在对蝴蝶的了解过程中，更是发现环境保护的重要性，可能每一个善意举动的背后，都会产生“蝴蝶效应”般的效果。",
+        "performerName": "刘子扬",
+        "coverImg": "http://static.tedxsuzhou.com/images/talks/2018youth/lzy.jpg",
+        "video": {
+            "type": "qq",
+            "length": 120,
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=z0848r1yo68&tiny=0&auto=0"
+        }
+    },
+    {
+        "id": "the id of the talk",
+        "eventId": "2018-youth-if",
+        "name": "突破出身的镣铐",
+        "sessionDesc": "“出生是镣铐还是翅膀？”过多的关注于本身的处境会导致孩子没有足够的时间精力分给未来，事与愿违，因此在这阶段应该给予孩子心理更多的关注。",
+        "performerName": "段锦云",
+        "coverImg": "http://static.tedxsuzhou.com/images/talks/2018youth/djy.jpg",
+        "video": {
+            "type": "qq",
+            "length": 120,
+            "url": "https://v.qq.com/txp/iframe/player.html?vid=u0848lhkxpu&tiny=0&auto=0"
+        }
     }
 ]
