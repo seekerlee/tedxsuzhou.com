@@ -54,9 +54,9 @@
     </div>
     <div class="site-info">
         <p>
-            <a rel="nofollow" href="http://www.miitbeian.gov.cn">苏ICP备14048502号-2</a> ©2018 创学空间
+            <a rel="nofollow" href="http://www.beian.miit.gov.cn">苏ICP备14048502号-2</a> ©2019 创学空间
             <br>
-            This independent TEDx event is operated under license from TED | TEDxSuzhou 2018 | Made with <v-icon name="heart"/> by <a href="https://simon1987.com" target="_blank">ShihLee</a>
+            This independent TEDx event is operated under license from TED | TEDxSuzhou 2019 | Made with <v-icon name="heart"/> by <a href="https://simon1987.com" target="_blank">ShihLee</a>
         </p>
     </div>
 </footer>
