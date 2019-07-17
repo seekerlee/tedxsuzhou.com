@@ -48,4 +48,9 @@ h3 {
     background-size: cover;
     background-attachment: fixed;
 }
+@media (max-width: 1024px) {
+    .section{
+        background-attachment: scroll;
+    }
+}
 </style>

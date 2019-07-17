@@ -66,6 +66,11 @@
 .hero {
     background: url(http://static.tedxsuzhou.com/images/tedxsuzhou_feel.jpg) 50% 0px / cover no-repeat fixed rgb(34, 34, 34);
 }
+@media (max-width: 1024px) {
+    .hero{
+        background-attachment: scroll;
+    }
+}
 .hero:after {
     position: absolute;
     top: 0;

@@ -78,6 +78,11 @@ export default {
     background-size: cover;
     position: relative;
 }
+@media (max-width: 1024px) {
+    .footer{
+        background-attachment: scroll;
+    }
+}
 .footer > * {
     z-index: 1;
     position: relative;
