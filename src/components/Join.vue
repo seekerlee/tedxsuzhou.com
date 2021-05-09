@@ -8,7 +8,7 @@
                     <div class="card">
                         <div class="card-image">
                             <figure class="image is-1by1">
-                                <img src="http://static.tedxsuzhou.com/images/speaker.jpg">
+                                <img src="https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/speaker.jpg">
                             </figure>
                         </div>
                         <div class="card-content">
@@ -23,7 +23,7 @@
                     <div class="card">
                         <div class="card-image">
                             <figure class="image is-1by1">
-                                <img src="http://static.tedxsuzhou.com/images/audience.jpg">
+                                <img src="https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/audience.jpg">
                             </figure>
                         </div>
                         <div class="card-content">
@@ -38,7 +38,7 @@
                     <div class="card">
                         <div class="card-image">
                             <figure class="image is-1by1">
-                                <img src="http://static.tedxsuzhou.com/images/volunteer.jpg">
+                                <img src="https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/volunteer.jpg">
                             </figure>
                         </div>
                         <div class="card-content">
@@ -53,7 +53,7 @@
                     <div class="card">
                         <div class="card-image">
                             <figure class="image is-1by1">
-                                <img src="http://static.tedxsuzhou.com/images/partner.jpg">
+                                <img src="https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/partner.jpg">
                             </figure>
                         </div>
                         <div class="card-content">

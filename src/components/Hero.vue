@@ -5,7 +5,7 @@
       <div class="container">
         <div class="navbar-brand">
           <a class="navbar-item">
-            <img src="http://static.tedxsuzhou.com/images/logo2.png" alt="Logo">
+            <img src="https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/logo2.png" alt="Logo">
           </a>
           <span class="navbar-burger burger" v-bind:class="{ 'is-active': showMenu }" @click.stop.prevent="toggleMenu()">
             <span></span>
@@ -64,7 +64,7 @@
     background-color: transparent;
 }
 .hero {
-    background: url(http://static.tedxsuzhou.com/images/tedxsuzhou_feel.jpg) 50% 0px / cover no-repeat fixed rgb(34, 34, 34);
+    background: url(https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/tedxsuzhou_feel.jpg) 50% 0px / cover no-repeat fixed rgb(34, 34, 34);
 }
 @media (max-width: 1024px) {
     .hero{

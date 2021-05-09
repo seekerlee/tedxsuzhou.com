@@ -44,7 +44,7 @@ h3 {
     padding: 2rem;
 }
 .section {
-    background: url("http://static.tedxsuzhou.com/images/yuanlin.jpg") no-repeat center center;
+    background: url("https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/yuanlin.jpg") no-repeat center center;
     background-size: cover;
     background-attachment: fixed;
 }

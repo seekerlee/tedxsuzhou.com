@@ -6,7 +6,7 @@
         "type": "",
         "active": false,
         "link": "http://www.vermeiren.com",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/vm.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/vm.png"
     },
     {
         "id": 1,
@@ -15,7 +15,7 @@
         "type": "",
         "active": false,
         "link": "http://www.theofficestar.com",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/officestar.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/officestar.png"
     },
     {
         "id": 2,
@@ -24,7 +24,7 @@
         "type": "",
         "active": true,
         "link": "http://www.xjtlu.edu.cn/en/",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/xp.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/xp.png"
     },
     {
         "id": 3,
@@ -33,7 +33,7 @@
         "type": "",
         "active": false,
         "link": "https://www.juhe.cn",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/jhsj.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/jhsj.png"
     },
     {
         "id": 4,
@@ -42,7 +42,7 @@
         "type": "",
         "active": false,
         "link": "http://mailchimp.com/",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/MailChimp.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/MailChimp.png"
     },
     {
         "id": 5,
@@ -51,7 +51,7 @@
         "type": "",
         "active": false,
         "link": "http://xiumi.us/",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/xiumi-logo.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/xiumi-logo.png"
     },
     {
         "id": 6,
@@ -60,7 +60,7 @@
         "type": "",
         "active": false,
         "link": "http://www.eventdove.com/",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/huige.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/huige.png"
     },
     {
         "id": 7,
@@ -69,7 +69,7 @@
         "type": "",
         "active": true,
         "link": "http://www.skema-bs.cn/",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/skema.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/skema.png"
     },
     {
         "id": 8,
@@ -77,7 +77,7 @@
         "level": 1,
         "type": "",
         "active": false,
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/sy.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/sy.png"
     },
     {
         "id": 9,
@@ -86,7 +86,7 @@
         "type": "",
         "active": false,
         "link": "http://www.kotrip.com/",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/maokong.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/maokong.png"
     },
     {
         "id": 10,
@@ -94,7 +94,7 @@
         "level": 1,
         "type": "",
         "active": false,
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/sipnpo.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/sipnpo.png"
     },
     {
         "id": 11,
@@ -103,7 +103,7 @@
         "type": "",
         "active": false,
         "link": "http://www.suzart.cn/",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/jjm.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/jjm.png"
     },
     {
         "id": 12,
@@ -111,7 +111,7 @@
         "level": 1,
         "type": "",
         "active": false,
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/zhix.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/zhix.png"
     },
     {
         "id": 13,
@@ -120,7 +120,7 @@
         "type": "",
         "active": false,
         "link": "http://developers.dushu.hu/",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/gdg-suzhou.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/gdg-suzhou.png"
     },
     {
         "id": 14,
@@ -129,7 +129,7 @@
         "type": "",
         "active": false,
         "link": "http://www.sscac.com.cn/",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/szdjy.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/szdjy.png"
     },
     {
         "id": 15,
@@ -138,7 +138,7 @@
         "type": "",
         "active": false,
         "link": "http://www.lingxi360.com/",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/lx.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/lx.png"
     },
     {
         "id": 16,
@@ -147,7 +147,7 @@
         "type": "",
         "active": false,
         "link": "http://gongyi.la/",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/gongyi.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/gongyi.png"
     },
     {
         "id": 17,
@@ -156,7 +156,7 @@
         "type": "",
         "active": false,
         "link": "http://www.34580.com/",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/fmkt.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/fmkt.png"
     },
     {
         "id": 18,
@@ -165,7 +165,7 @@
         "type": "",
         "active": false,
         "link": "http://www.opark.com",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/cyzg.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/cyzg.png"
     },
     {
         "id": 19,
@@ -174,7 +174,7 @@
         "type": "",
         "active": false,
         "link": "http://ckb.opark.com",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/ckb.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/ckb.png"
     },
     {
         "id": 20,
@@ -183,7 +183,7 @@
         "type": "",
         "active": false,
         "link": "http://www.yunshantea.com",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/yscq.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/yscq.png"
     },
     {
         "id": 21,
@@ -192,7 +192,7 @@
         "type": "",
         "active": false,
         "link": "http://www.fdemaison.com/index.html",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/mssj.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/mssj.png"
     },
     {
         "id": 22,
@@ -201,7 +201,7 @@
         "type": "",
         "active": false,
         "link": "http://www.benlai.com",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/blsh.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/blsh.png"
     },
     {
         "id": 23,
@@ -209,7 +209,7 @@
         "level": 1,
         "type": "",
         "active": false,
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/amaiwei.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/amaiwei.png"
     },
     {
         "id": 24,
@@ -217,7 +217,7 @@
         "level": 1,
         "type": "",
         "active": false,
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/df.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/df.png"
     },
     {
         "id": 25,
@@ -225,7 +225,7 @@
         "level": 1,
         "type": "",
         "active": false,
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/zz.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/zz.png"
     },
     {
         "id": 26,
@@ -233,7 +233,7 @@
         "level": 1,
         "type": "",
         "active": false,
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/panda.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/panda.png"
     },
     {
         "id": 27,
@@ -242,7 +242,7 @@
         "type": "",
         "active": false,
         "link": "http://www.isuzhou.me",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/qdsz.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/qdsz.png"
     },
     {
         "id": 28,
@@ -250,7 +250,7 @@
         "level": 1,
         "type": "",
         "active": false,
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/jg.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/jg.png"
     },
     {
         "id": 29,
@@ -259,7 +259,7 @@
         "type": "",
         "active": true,
         "link": "http://www.logitech.com.cn/zh-cn",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/luoji.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/luoji.png"
     },
     {
         "id": 30,
@@ -268,7 +268,7 @@
         "type": "",
         "active": false,
         "link": "http://www.renogy.cn",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/renogy.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/renogy.png"
     },
     {
         "id": 31,
@@ -277,7 +277,7 @@
         "type": "",
         "active": false,
         "link": "http://www.jslinezone.com",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/line-zone.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/line-zone.png"
     },
     {
         "id": 32,
@@ -286,7 +286,7 @@
         "type": "",
         "active": true,
         "link": "http://www.csztv.cn",
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/sbs.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/sbs.png"
     },
     {
         "id": 33,
@@ -294,6 +294,6 @@
         "level": 1,
         "type": "",
         "active": true,
-        "logoUrl": "http://static.tedxsuzhou.com/images/sponsor/jingquan-agency.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/jingquan-agency.png"
     }
 ]

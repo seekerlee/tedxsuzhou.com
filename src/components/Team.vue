@@ -7,7 +7,7 @@
                 <slide v-for="member in activeMembers" :key="member.id">
                     <div class="person">
                         <figure class="image is-1by1">
-                            <img class="is-rounded is-64x64" :src="'http://static.tedxsuzhou.com' + member.avatar_template" alt="">
+                            <img class="is-rounded is-64x64" :src="'https://tedxsz.oss-cn-shanghai.aliyuncs.com' + member.avatar_template" alt="">
                         </figure>
                         <h4 class="has-text-centered">{{member.name}}<template v-if="member.title">, {{member.title}}</template></h4>
                         <p>{{member.bio}}</p>

@@ -12,7 +12,6 @@
                 <div class="columns is-multiline">
                     <div
                     v-for="talk in displayingTalks"
-                    v-if="talk.video"
                     v-bind:key="talk.performerName"
                     class="talk column is-one-quarter"
                     v-bind:class="{ 'talk-leave': talkLeaving, 'talk-enter': !talkLeaving }"
@@ -66,7 +65,7 @@ export default {
   computed: {
     displayingTalks: function () {
       return talks.filter(talk => {
-        return talk.eventId === this.selectedEvent
+        return talk.eventId === this.selectedEvent && talk.video
       })
     }
   },
