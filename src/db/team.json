@@ -1,15 +1,5 @@
 [
   {
-    "id": 100,
-    "name": "华玉兰",
-    "username": "gracy",
-    "avatar_template": "/image/avatar/gracy.jpg",
-    "bio": "TEDxSuzhou 2019 大会策展人，扬州大学国际贸易学士，即将就读西交利物浦 IMBA，医药健康行业从业者，负责市场与业务发展等工作，喜欢建筑、旅游,自由意志崇尚者，正在寻找一个健康产品创业项目。",
-    "title": "市场品牌总监",
-    "isActive": false,
-    "order": 114
-  },
-  {
     "id": 101,
     "name": "徐以跃",
     "username": "simon_xu",
@@ -18,46 +8,6 @@
     "title": "财务顾问",
     "isActive": true,
     "order": 113
-  },
-  {
-    "id": 102,
-    "name": "吴亚娅",
-    "username": "leslie",
-    "avatar_template": "/image/avatar/leslie.jpg",
-    "bio": "项目管理负责人，咨询行业项目主管，南京工业大学信息管理和信息系统专业学士，咨询行业从业者，负责质量行业咨询，认证和培训业务，喜欢美剧、不断学习新知识，拓展自己，目前正在往资深咨询师的路上迈进！",
-    "title": "运营总监",
-    "isActive": false,
-    "order": 110
-  },
-  {
-    "id": 103,
-    "name": "Duke",
-    "username": "duke",
-    "avatar_template": "/image/avatar/duke.jpg",
-    "bio": "TEDx Suzhou 制作组负责人。教育行业从业者，主要从事来华留学生教育管理工作。喜欢电影音乐和阅读。",
-    "title": "制作总监",
-    "isActive": false,
-    "order": 109
-  },
-  {
-    "id": 104,
-    "name": "徐啸晨",
-    "username": "johnson",
-    "avatar_template": "/image/avatar/johnson.jpg",
-    "bio": "南京航空航天大学机械工程与自动化专业。从事电子行业，负责地区客户开发与销售。喜欢心理学，社科学，挑战自我，更新自我。心中远方，砥砺前行。",
-    "title": "社区合作伙伴总监",
-    "isActive": false,
-    "order": 111
-  },
-  {
-    "id": 105,
-    "name": "朱丹",
-    "username": "rita",
-    "avatar_template": "/image/avatar/rita.jpg",
-    "bio": "TEDxSuzhou团队管理负责人，TEDxSuzhouWomen 2018大会策展人。苏州大学人力资源管理学士，英国巴斯大学人力资源咨询硕士。目前正在也将继续用专业的方法和战略性的思维为企业人力资源管理作出贡献。喜欢旅行，游泳和舞蹈，热爱一切让生活有趣，让人生丰满的新鲜事物，执着于自我成长和帮助他人成长。探索生命，发现无限可能。",
-    "title": "团队管理总监",
-    "isActive": false,
-    "order": 108
   },
   {
     "id": 12,
@@ -108,60 +58,13 @@
     "order": 105
   },
   {
-    "id": 11,
-    "name": "赵博",
-    "username": "alan.zhao",
-    "avatar_template": "/image/avatar/alan.zhao.png",
-    "bio": "世界那么大，人生那么短，令自己处于开心的状态，选择一个不累的生活态度吧!",
-    "email": "alan.zhao@tedxsuzhou.com",
-    "title": "品牌与市场部总监",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 31,
-    "name": "毛惠Coco Mao",
-    "username": "maohuicoco",
-    "avatar_template": "/image/avatar/maohuicoco.png",
-    "bio": "TEDxSuzhou演讲人助理。苏州大学会计学在读，“外研社”杯英语演讲大赛国奖，2015APEC峰会中国青年代表。曾公派赴哈佛学习。不能更典型水瓶座，对真善美永保热忱。",
-    "linkedin": "https://cn.linkedin.com/in/maohuicoco",
-    "weibo": "http://weibo.com/u/2065752875",
-    "email": "maohuicoco@163.com",
-    "title": "演讲人助理",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 40,
-    "name": "Leo Zhao",
-    "username": "Leo",
-    "avatar_template": "/image/avatar/Leo.png",
-    "bio": "西交利物浦大学 城市规划与设计在读研究生一枚 爱好国画、摄影、设计、阅读以及视频编排制作",
-    "weibo": "http://weibo.com/2250716851/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1",
-    "email": "Leo.Zhao@TEDxSuzhou.com",
-    "title": "设计师 ",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 19,
-    "name": "Matthew Chen",
-    "username": "maschenxi",
-    "avatar_template": "/image/avatar/maschenxi.png",
-    "bio": "天秤座，逻辑控，不知何时起对于生活产生了这样一种理念\"to live is to see this world\"。目前深耕于制造业，虽谈不上不喜欢，但深信制造业的价值被这个膨胀的社会所忽视。",
-    "linkedin": "http://www.linkedin.com/in/wenfeng-chen-487a4a68?trk=nav_responsive_tab_profile_pic",
-    "title": "演讲人教练",
-    "isActive": false,
-    "order": 100
-  },
-  {
     "id": 16,
     "name": "Liana Liang",
     "username": "Liana",
     "avatar_template": "/image/avatar/Liana.png",
     "bio": "HR，热爱教育，社会公益与组织人力发展，关注女性及性少数的发展。",
     "title": "顾问",
-    "isActive": false,
+    "isActive": true,
     "order": 101
   },
   {
@@ -179,87 +82,10 @@
     "name": "Wensi Zhang",
     "username": "Wensi",
     "avatar_template": "/image/avatar/Wensi.png",
-    "bio": "爱设计且爱自由的外星人幸运地在包容心巨大的 TEDxSuzhou 找到了栖身之所。",
+    "bio": "TEDxSuzhou 执牌人、顾问，TEDxSuzhouWomen 联合发起人；热爱设计、热爱公益、热爱生活、热爱自由",
     "title": "品牌营销总监",
     "isActive": true,
     "order": 120
-  },
-  {
-    "id": 28,
-    "name": "Alex He",
-    "username": "Alex",
-    "avatar_template": "/image/avatar/Alex.png",
-    "bio": "TED OTP项目志愿者，热衷于MOOC学习，了解新鲜事物。爱好阅读，徒步运动，平时有空也会看看美剧，美式脱口秀。玩玩桌游。",
-    "linkedin": "https://cn.linkedin.com/in/alexhosuzhou",
-    "email": "839975402@qq.com",
-    "title": "制作助理",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 43,
-    "name": "刘鹏",
-    "username": "FrancisLiu",
-    "avatar_template": "/image/avatar/FrancisLiu.png",
-    "bio": "EHS工程师，环保主义实践者，美食狂热爱好者，爱旅行，爱潜水，爱这个枝繁叶茂的美好世界，世界那么大，定要好好地去看看！",
-    "title": "活动助理",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 51,
-    "name": "Ziheng Zhang",
-    "username": "ziheng.zhang",
-    "avatar_template": "/image/avatar/ziheng.zhang.png",
-    "bio": "西交利物浦大二计算机专业学生，热爱生活，热爱TED，希望可以通过TEDxYouth的平台传播出更多有价值的思想！",
-    "linkedin": "https://www.linkedin.com/profile/view?id=379548121",
-    "weibo": "http://weibo.com/u/2921440265",
-    "email": "ziheng.zhang@tedxsuzhou.com",
-    "title": "Youth 活动联合策展人",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 44,
-    "name": "Jessica Jiang",
-    "username": "JessicaJ",
-    "avatar_template": "/image/avatar/JessicaJ.png",
-    "bio": "爱书爱旅行爱音乐剧。身处俗世，心系诗和远方。",
-    "title": "市场助理",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 38,
-    "name": "夏仲文 Aegean Xia",
-    "username": "aegean_xia",
-    "avatar_template": "/image/avatar/aegean_xia.png",
-    "bio": "TEDxSuzhou物料管理和国际组成员，曾在挪威就读工业物流理学硕士学位，致力于本地海归社区的发展。高级企业风险内控师，热爱瑜伽、旅游",
-    "email": "aegean.xia@tedxsuzhou.com",
-    "title": "社区主管",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 32,
-    "name": "陈宇哲 Evan ",
-    "username": "a369369",
-    "avatar_template": "/image/avatar/a369369.png",
-    "bio": "主修给排水科学与工程专业。大二曾创办并运营针对大学生的“璞真青年游学营”。喜欢游泳，旅行，看电影，对未来充满希望,希望每天都生活的多姿多彩。",
-    "email": "740821877@qq.com",
-    "title": "运营助理",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 49,
-    "name": "陆晓曈Lulia Lu",
-    "username": "lulia",
-    "avatar_template": "/image/avatar/lulia.png",
-    "bio": "苏州大学信息资源管理专业二年级，文字上的杂食动物，图像里的素食主义。正在关注亚文化领域，努力做出一条与众不同的小裙子。",
-    "title": "演讲人助理",
-    "isActive": false,
-    "order": 100
   },
   {
     "id": 48,
@@ -270,163 +96,6 @@
     "linkedin": "Alice.Yu@ul.com",
     "email": "Redmission2013@yahoo.com",
     "title": "活动主管",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 34,
-    "name": "Coney Sun",
-    "username": "Coney",
-    "avatar_template": "/image/avatar/Coney.png",
-    "bio": "热爱旅行，公益与分享。在外企从事人力资源工作。",
-    "title": "招聘助理",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 22,
-    "name": "Flora Pang",
-    "username": "Flora",
-    "avatar_template": "/image/avatar/Flora.png",
-    "bio": "外企HR，人力资源管理师爱旅游美食喜欢用创新思维点亮生活 ",
-    "title": "演讲人助理",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 33,
-    "name": "吴启梦",
-    "username": "SherryWoo",
-    "avatar_template": "/image/avatar/sherrywoo.jpg",
-    "bio": "美国爱荷华大学会计和市场营销双学士，美国南加州大学市场营销硕士，金融行业从业者，从事投资项目相关事宜。喜欢摄影、电影和音乐，踏出舒适圈，目前正在努力成为一个半职业摄影师。",
-    "title": "教练总监",
-    "isActive": false,
-    "order": 112
-  },
-  {
-    "id": 50,
-    "name": "Fangyu Wu",
-    "username": "fangyu",
-    "avatar_template": "/image/avatar/fangyu.png",
-    "bio": "励志成为一名优秀的程序媛同时也是TEDxYouth@Suzhou策展人，我相信青年的力量是无穷的，我们可以改变世界！",
-    "linkedin": "https://cn.linkedin.com/in/芳宇-武-245396117",
-    "weibo": "http://weibo.com/u/2407534093",
-    "email": "fangyu.wu@tedxsuzhou.com",
-    "title": "Youth 活动策展人",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 27,
-    "name": "董达",
-    "username": "dongda",
-    "avatar_template": "/image/avatar/dongda.png",
-    "bio": "拥有一颗好奇心; 在TEDxSuzhou, 同大家一起知行合一，体会分享之美；",
-    "linkedin": "https://cn.linkedin.com/in/da-dong-81a80770",
-    "email": "dong.da@tedxsuzhou.com",
-    "title": " 制作主管",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 37,
-    "name": "Sheldon Tang",
-    "username": "Sheldon",
-    "avatar_template": "/image/avatar/Sheldon.png",
-    "bio": "人力资源管理专业二年级在读，粗通摄影，没事踢踢球。",
-    "weibo": "http://weibo.com/2582884084/profile?topnav=1&wvr=6&is_all=1",
-    "email": "sheldon.tang@tedxsuzhou.com",
-    "title": "市场助理",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 36,
-    "name": "余康睿",
-    "username": "Gary",
-    "avatar_template": "/image/avatar/Gary.png",
-    "bio": "TEDxSuzhou 设计师设计学硕士，主修视觉传达设计和城市景观设计专业。因为对诸多领域有所了解，所以追求的是爱好广泛和体验多元的生活。",
-    "email": "kangrui.yu@tedxsuzhou.com",
-    "title": "总设计师",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 35,
-    "name": "Lucy 陈现在",
-    "username": "Lucy",
-    "avatar_template": "/image/avatar/Lucy.png",
-    "bio": "不增不减，慢慢儿的，活在当下",
-    "title": "招聘主管",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 30,
-    "name": "Jacky Gu",
-    "username": "Jackygu",
-    "avatar_template": "/image/avatar/Jackygu.png",
-    "bio": "TEDxSuzhou团队管理中负责流程管理，外企从事物流管理工作，同时经营着一家苏帮菜馆，励志把苏帮菜做到极致。爱吃，爱聊，爱生活，这就是我。",
-    "linkedin": "http://www.linkedin.com/home?trk=nav_responsive_tab_home",
-    "email": "jacky.gu@tedxsuzhou.com",
-    "title": "流程改进主管",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 24,
-    "name": "Cynthia Zheng",
-    "username": "Cynthia",
-    "avatar_template": "/image/avatar/Cynthia.png",
-    "bio": "一名在自我认知和探索的路上探寻着的普通人,一个想给这个世界传递一份爱的人,一个对世界充满了好奇的人.目前是TedxSUZHOU的coach,为社区成员提供公益教练服务.",
-    "linkedin": "http://www.linkedin.com/profile/view?id=AAIAAALkSYYB8ZIfGzAJv-EEAto1lzGdv4kybhQ&trk=nav_responsive_tab_profile",
-    "email": "zhenghong0716@126.com",
-    "title": "教练",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 25,
-    "name": "Ryan 严燕青",
-    "username": "RyanYan",
-    "avatar_template": "/image/avatar/RyanYan.png",
-    "bio": "目前在国内某大数据公司负责市场，热爱新鲜事物，坚持读书与慢跑，希望成为一个深刻而有趣的人。",
-    "title": "社区顾问",
-    "isActive": false,
-    "order": 102
-  },
-  {
-    "id": 41,
-    "name": "Melody Li",
-    "username": "MelodyLi",
-    "avatar_template": "/image/avatar/MelodyLi.png",
-    "bio": "和君商学院学员，新能源行业Salesforce系统顾问兼项目推广人，业余爱好：阅读、旅游。",
-    "email": "melody.li@tedxsuzhou.com",
-    "title": "社区助理  ",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 9,
-    "name": "张雉浪",
-    "username": "George",
-    "avatar_template": "/image/avatar/George.png",
-    "bio": "喜欢做公益，创业者，CPT（Community Parter Team）主管，和团队伙伴为TEDxSuzhou的每次活动举办提供坚强的后盾，打造基于本地的全球化社区。",
-    "email": "george@tedxsuzhou.com",
-    "title": "社区主管",
-    "isActive": false,
-    "order": 100
-  },
-  {
-    "id": 39,
-    "name": "Cici Tsai",
-    "username": "CiciTsai",
-    "avatar_template": "/image/avatar/CiciTsai.png",
-    "bio": "TEDxSuzhou 社区主管（社区合作伙伴组）社区赞助商接洽以及关系维护。射手座，热爱生活，积极向上。立志做个小太阳，照亮身边的小伙伴。同时，也是 GDG Suzhou 组织者之一。",
-    "linkedin": "https://cn.linkedin.com/in/tsaicici",
-    "weibo": "http://weibo.com/tsaicici",
-    "email": "tsaicici@tedxsuzhou.com",
-    "title": "社区主管",
     "isActive": false,
     "order": 100
   },
