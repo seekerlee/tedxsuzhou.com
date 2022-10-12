@@ -32,7 +32,7 @@ export default {
       return this.team.filter(m => {
         return m.isActive
       }).sort((m1, m2) => {
-        return m2.order - m1.order
+        return m1.order - m2.order
       })
     }
   },
