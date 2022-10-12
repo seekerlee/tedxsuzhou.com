@@ -7,7 +7,7 @@
     "bio": "TEDxSuzhou 2019 大会策展人（Operation 方向），社区财务负责人，江苏理工财务管理专业学士，航空行业从业者，负责公司现金流管理、信用控制及税务等工作。从事过记者，也在四川支教过。爱摄影，爱旅游，自诩为追梦人，怀揣着一颗骚动的心，却一直踏踏实实的仰望着星空，砥砺前行。",
     "title": "财务顾问",
     "isActive": true,
-    "order": 113
+    "order": 500
   },
   {
     "id": 12,
@@ -17,7 +17,7 @@
     "bio": "科技行业从业者，负责企业文化和内训等工作。专注演讲沟通及辅导6年+，教练人数200+，教练时数1500+，受邀给英特尔亚洲上海研发中心，同程旅游，VOITH 福伊特造纸等企业做演讲培训。终身学习理念信奉者，喜欢旅行，相信身体和灵魂总有一个要在路上。目前希望通过自己在做的事帮不擅长演讲的人做出一点点改变。",
     "title": "教练组发起人兼顾问",
     "isActive": true,
-    "order": 107
+    "order": 600
   },
   {
     "id": 17,
@@ -28,7 +28,7 @@
     "email": "cloe.li@tedxsuzhou.com",
     "title": "社区顾问",
     "isActive": true,
-    "order": 104
+    "order": 300
   },
   {
     "id": 7,
@@ -41,7 +41,7 @@
     "email": "lisa@tedxsuzhou.com",
     "title": "执牌人兼顾问",
     "isActive": true,
-    "order": 106
+    "order": 200
   },
   {
     "id": 2,
@@ -55,7 +55,7 @@
     "email": "jade@tedxsuzhou.com",
     "title": "社区发起人，顾问/TEDx 中国区大使",
     "isActive": true,
-    "order": 105
+    "order": 100
   },
   {
     "id": 16,
@@ -75,7 +75,7 @@
     "bio": "营销学博士，擅长数据分析和心理学，禅修推动者和修习者，致力于通过商业手段解决社会问题",
     "title": "社区顾问",
     "isActive": true,
-    "order": 103
+    "order": 700
   },
   {
     "id": 6,
@@ -85,7 +85,7 @@
     "bio": "TEDxSuzhou 执牌人、顾问，TEDxSuzhouWomen 联合发起人；热爱设计、热爱公益、热爱生活、热爱自由",
     "title": "品牌营销总监",
     "isActive": true,
-    "order": 120
+    "order": 400
   },
   {
     "id": 48,
@@ -97,7 +97,7 @@
     "email": "Redmission2013@yahoo.com",
     "title": "活动主管",
     "isActive": false,
-    "order": 100
+    "order": 800
   },
   {
     "id": 1000,
@@ -107,6 +107,6 @@
     "bio": "工程师，我做了这个网站",
     "title": "社区顾问",
     "isActive": true,
-    "order": 100
+    "order": 10000
   }
 ]
