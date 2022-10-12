@@ -39,7 +39,7 @@
     "linkedin": "https://www.linkedin.com/in/lisa-qin-8500aa29?trk=nav_responsive_tab_profile_pic",
     "weibo": "http://weibo.com/1600116827/profile?topnav=1&wvr=6&is_all=1",
     "email": "lisa@tedxsuzhou.com",
-    "title": "执牌人兼顾问",
+    "title": "执牌人、顾问",
     "isActive": true,
     "order": 200
   },
@@ -82,8 +82,8 @@
     "name": "Wensi Zhang",
     "username": "Wensi",
     "avatar_template": "/image/avatar/Wensi.png",
-    "bio": "TEDxSuzhou 执牌人、顾问，TEDxSuzhouWomen 联合发起人；热爱设计、热爱公益、热爱生活、热爱自由",
-    "title": "品牌营销总监",
+    "bio": "爱设计、热爱公益、热爱生活、热爱自由",
+    "title": "执牌人、顾问/TEDxSuzhouWomen 联合发起人",
     "isActive": true,
     "order": 400
   },
