@@ -6,7 +6,7 @@
     "avatar_template": "/image/avatar/gracy.jpg",
     "bio": "TEDxSuzhou 2019 大会策展人，扬州大学国际贸易学士，即将就读西交利物浦 IMBA，医药健康行业从业者，负责市场与业务发展等工作，喜欢建筑、旅游,自由意志崇尚者，正在寻找一个健康产品创业项目。",
     "title": "市场品牌总监",
-    "isActive": true,
+    "isActive": false,
     "order": 114
   },
   {
@@ -26,7 +26,7 @@
     "avatar_template": "/image/avatar/leslie.jpg",
     "bio": "项目管理负责人，咨询行业项目主管，南京工业大学信息管理和信息系统专业学士，咨询行业从业者，负责质量行业咨询，认证和培训业务，喜欢美剧、不断学习新知识，拓展自己，目前正在往资深咨询师的路上迈进！",
     "title": "运营总监",
-    "isActive": true,
+    "isActive": false,
     "order": 110
   },
   {
@@ -36,7 +36,7 @@
     "avatar_template": "/image/avatar/duke.jpg",
     "bio": "TEDx Suzhou 制作组负责人。教育行业从业者，主要从事来华留学生教育管理工作。喜欢电影音乐和阅读。",
     "title": "制作总监",
-    "isActive": true,
+    "isActive": false,
     "order": 109
   },
   {
@@ -46,7 +46,7 @@
     "avatar_template": "/image/avatar/johnson.jpg",
     "bio": "南京航空航天大学机械工程与自动化专业。从事电子行业，负责地区客户开发与销售。喜欢心理学，社科学，挑战自我，更新自我。心中远方，砥砺前行。",
     "title": "社区合作伙伴总监",
-    "isActive": true,
+    "isActive": false,
     "order": 111
   },
   {
@@ -56,7 +56,7 @@
     "avatar_template": "/image/avatar/rita.jpg",
     "bio": "TEDxSuzhou团队管理负责人，TEDxSuzhouWomen 2018大会策展人。苏州大学人力资源管理学士，英国巴斯大学人力资源咨询硕士。目前正在也将继续用专业的方法和战略性的思维为企业人力资源管理作出贡献。喜欢旅行，游泳和舞蹈，热爱一切让生活有趣，让人生丰满的新鲜事物，执着于自我成长和帮助他人成长。探索生命，发现无限可能。",
     "title": "团队管理总监",
-    "isActive": true,
+    "isActive": false,
     "order": 108
   },
   {
@@ -300,7 +300,7 @@
     "avatar_template": "/image/avatar/sherrywoo.jpg",
     "bio": "美国爱荷华大学会计和市场营销双学士，美国南加州大学市场营销硕士，金融行业从业者，从事投资项目相关事宜。喜欢摄影、电影和音乐，踏出舒适圈，目前正在努力成为一个半职业摄影师。",
     "title": "教练总监",
-    "isActive": true,
+    "isActive": false,
     "order": 112
   },
   {
@@ -387,12 +387,12 @@
   },
   {
     "id": 25,
-    "name": "Ryan严燕青",
+    "name": "Ryan 严燕青",
     "username": "RyanYan",
     "avatar_template": "/image/avatar/RyanYan.png",
     "bio": "目前在国内某大数据公司负责市场，热爱新鲜事物，坚持读书与慢跑，希望成为一个深刻而有趣的人。",
     "title": "社区顾问",
-    "isActive": true,
+    "isActive": false,
     "order": 102
   },
   {
