@@ -65,7 +65,7 @@
     "bio": "HR，热爱教育，社会公益与组织人力发展，关注女性及性少数的发展。",
     "title": "顾问",
     "isActive": true,
-    "order": 101
+    "order": 800
   },
   {
     "id": 10,
@@ -97,7 +97,7 @@
     "email": "Redmission2013@yahoo.com",
     "title": "活动主管",
     "isActive": false,
-    "order": 800
+    "order": 550
   },
   {
     "id": 1000,
