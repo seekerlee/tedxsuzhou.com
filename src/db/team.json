@@ -106,7 +106,7 @@
     "avatar_template": "/image/avatar/simon.jpg",
     "bio": "工程师，我做了这个网站",
     "title": "社区顾问",
-    "isActive": true,
+    "isActive": false,
     "order": 10000
   }
 ]
