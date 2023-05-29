@@ -69,7 +69,7 @@
         "type": "",
         "active": true,
         "link": "http://www.skema-bs.cn/",
-        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/skema.png"
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/skema2023.png"
     },
     {
         "id": 8,
@@ -295,5 +295,37 @@
         "type": "",
         "active": true,
         "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/jingquan-agency.png"
+    },
+    {
+        "id": 34,
+        "name": "第一工园",
+        "level": 1,
+        "type": "",
+        "active": true,
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/1gongyuan.png"
+    },
+    {
+        "id": 35,
+        "name": "音昱水中天",
+        "level": 1,
+        "type": "",
+        "active": true,
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/shuizhongtian.png"
+    },
+    {
+        "id": 36,
+        "name": "讯飞听见",
+        "level": 1,
+        "type": "",
+        "active": true,
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/xftingjian.png"
+    },
+    {
+        "id": 37,
+        "name": "讯飞苏州",
+        "level": 1,
+        "type": "",
+        "active": true,
+        "logoUrl": "https://tedxsz.oss-cn-shanghai.aliyuncs.com/image/sponsor/xunfeisuzhou.png"
     }
 ]
