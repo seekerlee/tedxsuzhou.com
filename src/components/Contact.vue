@@ -56,7 +56,7 @@
         <p>
             <a rel="nofollow" href="http://www.beian.miit.gov.cn">苏ICP备14048502号-2</a> ©2023 创学空间（苏州工业园区庭恒汇文化交流中心）
             <br>
-            This independent TEDx event is operated under license from TED | TEDxSuzhou 2022 | Made with <v-icon name="heart"/> by <a href="https://simon1987.com" target="_blank">Shih</a>
+            This independent TEDx event is operated under license from TED | TEDxSuzhou 2023 | Made with <v-icon name="heart"/> by <a href="https://simon1987.com" target="_blank">Shih</a>
         </p>
     </div>
 </footer>
